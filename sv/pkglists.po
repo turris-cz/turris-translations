@@ -154,7 +154,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Tinyproxy"
-msgstr ""
+msgstr "Tinyproxy"
 
 #: definitions.json
 msgid "HTTP(S) proxy."
@@ -162,7 +162,7 @@ msgstr ""
 
 #: definitions.json
 msgid "UPnP"
-msgstr ""
+msgstr "UPnP"
 
 #: definitions.json
 msgid "Universal Plug and Play service."
@@ -502,4 +502,39 @@ msgstr ""
 msgid ""
 "Server side for Turris MOX without SD card used as Wi-Fi access point. "
 "(EXPERIMENTAL)"
+msgstr ""
+
+msgid "Data Collection"
+msgstr ""
+
+msgid ""
+"Software for participation in data collection and distributed adaptive "
+"firewall."
+msgstr ""
+
+msgid ""
+"Collect data about router usage (installed packages, Internet connection "
+"type and etc.)."
+msgstr ""
+
+msgid ""
+"Add firewall rules to block attackers detected by Turris collection network."
+msgstr ""
+
+msgid "Collect logs from firewall for attempted connections."
+msgstr ""
+
+msgid "Minimal honeypots to catch attackers for various protocols."
+msgstr ""
+
+msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
+msgstr ""
+
+msgid "Hardening (experimental)"
+msgstr ""
+
+msgid "reForis (experimental)"
+msgstr ""
+
+msgid "Redesigned Foris is new web interface for Turris routers."
 msgstr ""
