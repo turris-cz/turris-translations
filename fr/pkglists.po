@@ -5,7 +5,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
 "PO-Revision-Date: 2022-01-13 05:02+0000\n"
-"Last-Translator: Gabriel GRONDIN <gglinnk@protonmail.com>\n"
+"Last-Translator: Marc <marco@tru-and-co.net>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/turris/pkglists/"
 "fr/>\n"
 "Language: fr\n"
@@ -516,12 +516,12 @@ msgstr ""
 "tentatives de connections ayant échoué."
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Threat detection tool. Minimal honeypots to catch attackers by mimicking "
 "various protocols."
 msgstr ""
-"Pots de miel minimaux pour attraper les attaquants pour divers protocoles."
+"Outil de détection de menaces. Pots de miel élémentaires permettant de "
+"piéger les attaquants en imitant différents protocoles."
 
 #: definitions.json
 #, fuzzy
