@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2022-01-13 05:02+0000\n"
-"Last-Translator: Marc <marco@tru-and-co.net>\n"
+"PO-Revision-Date: 2022-01-14 05:55+0000\n"
+"Last-Translator: Gabriel GRONDIN <gglinnk@protonmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/turris/pkglists/"
 "fr/>\n"
 "Language: fr\n"
@@ -144,7 +144,7 @@ msgstr "Journaux du pare-feu"
 
 #: definitions.json
 msgid "Minipots"
-msgstr ""
+msgstr "Minipots"
 
 #: definitions.json
 msgid "Hardening"
@@ -520,15 +520,16 @@ msgid ""
 "Threat detection tool. Minimal honeypots to catch attackers by mimicking "
 "various protocols."
 msgstr ""
-"Outil de détection de menaces. Pots de miel élémentaires permettant de "
+"Outil de détection des menaces. Pots de miel élémentaires permettant de "
 "piéger les attaquants en imitant différents protocoles."
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Threat detection tool. SSH honeypot using Honeypot as a Service (haas.nic."
 "cz)."
-msgstr "Pot de miel SSH utilisant Honeypot as a Service (haas.nic.cz)."
+msgstr ""
+"Outil de détection des menaces. Pot de miel SSH utilisant \"Honeypot as a "
+"Service\" (haas.nic.cz)."
 
 #~ msgid "Data Collection"
 #~ msgstr "Collecte de données"
