@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2022-01-13 04:55+0000\n"
+"PO-Revision-Date: 2022-01-13 05:02+0000\n"
 "Last-Translator: Gabriel GRONDIN <gglinnk@protonmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/turris/pkglists/"
 "fr/>\n"
@@ -375,7 +375,6 @@ msgstr ""
 "même avoir des conséquences négatives pour certains utilisateurs."
 
 #: definitions.json
-#, fuzzy
 msgid "Alternative core drivers"
 msgstr "Pilotes de base alternatifs"
 
@@ -394,7 +393,6 @@ msgid "Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x"
 msgstr "Pilotes Wi-Fi de Candela Technologies pour Qualcomm Atheros QCA988x"
 
 #: definitions.json
-#, fuzzy
 msgid "Alternative driver from Candela Technologies."
 msgstr "Pilote alternatif de Candela Technologies."
 
@@ -458,7 +456,7 @@ msgstr ""
 
 #: definitions.json
 msgid "OpenWrt's process jail"
-msgstr ""
+msgstr "La prison de processus d'OpenWrt"
 
 #: definitions.json
 msgid ""
@@ -469,7 +467,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Secure Computing Mode (seccomp)"
-msgstr ""
+msgstr "Mode de calcul sécurisé (seccomp)"
 
 #: definitions.json
 msgid ""
@@ -479,22 +477,20 @@ msgstr ""
 "d'eux-mêmes"
 
 #: definitions.json
-#, fuzzy
 msgid "Easy setup of the OpenVPN client and server from Foris."
-msgstr "Une configuration facile du serveur OpenVPN via Foris."
+msgstr "Installation facile du client et du serveur OpenVPN de Foris."
 
 #: definitions.json
 msgid "Advanced security & analytics - Turris Sentinel"
-msgstr ""
+msgstr "Sécurité et analyse avancées - Turris Sentinel"
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Software for participation in threat detection program which provides "
 "distributed adaptive firewall and statistics."
 msgstr ""
-"Logiciel de participation à la collecte de données et pare-feu distribué "
-"dynamique."
+"Logiciel de participation au programme de détection des menaces qui fournit "
+"un pare-feu adaptatif distribué et des statistiques."
 
 #: definitions.json
 msgid ""
