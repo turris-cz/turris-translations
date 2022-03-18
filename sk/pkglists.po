@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2021-09-22 16:36+0000\n"
+"PO-Revision-Date: 2022-03-18 15:59+0000\n"
 "Last-Translator: Atec <dr.atec@gmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/turris/pkglists/"
 "sk/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.12-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -230,7 +230,7 @@ msgstr "Pridanie podpory na prístup k šifrovanému úložisku pomocou dm-crypt
 
 #: definitions.json
 msgid "New devices detection"
-msgstr "Detekcia nových zariadení"
+msgstr "Zisťovanie nových zariadení"
 
 #: definitions.json
 msgid "Software for detecting new devices on local network."
@@ -312,8 +312,8 @@ msgid ""
 "amount of writes."
 msgstr ""
 "Pri použití tohto zoznamu balíčkov sa dôrazne odporúča využitie externého "
-"úložiska. Software v tomto zozname balíčkov môže spôsobiť opotrebovanie "
-"flash úložiska, pretože vykonáva veľké množstvo zápisov."
+"úložiska. Software v tomto zozname balíčkov vykonáva veľké množstvo zápisov "
+"a môže spôsobiť opotrebovanie flash úložiska."
 
 #: labels.json
 msgid "High memory usage"
