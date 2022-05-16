@@ -3,14 +3,86 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
-"POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2020-02-24 14:38\n"
+"POT-Creation-Date: 2022-05-16 10:29\n"
+"PO-Revision-Date: 2022-05-16 10:29\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
+msgstr ""
+
+#: definitions.json
+msgid "Support for Turris Omnia and Turris MOX LTE pack."
+msgstr ""
+
+#: definitions.json
+msgid "Advanced security & analytics - Turris Sentinel"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Software for participation in threat detection program which provides "
+"distributed adaptive firewall and statistics."
+msgstr ""
+
+#: definitions.json
+msgid "Usage Survey"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Collects data about router usage (installed packages, Internet connection "
+"type and etc.)."
+msgstr ""
+
+#: definitions.json
+msgid "Dynamic Firewall"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Adds firewall rules to block attackers detected by Turris Sentinel network."
+msgstr ""
+
+#: definitions.json
+msgid "Firewall Logs"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Threat detection tool. Collects firewall logs about failed connection "
+"attempts."
+msgstr ""
+
+#: definitions.json
+msgid "Minipots"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Threat detection tool. Minimal honeypots to catch attackers by mimicking "
+"various protocols."
+msgstr ""
+
+#: definitions.json
+msgid "SSH Honeypot"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Threat detection tool. SSH honeypot using Honeypot as a Service "
+"(haas.nic.cz)."
+msgstr ""
+
+#: definitions.json
+msgid "RIPE Atlas SW Probe"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Global platform, which measures Internet connectivity and reachability."
 msgstr ""
 
 #: definitions.json
@@ -24,66 +96,7 @@ msgid ""
 msgstr ""
 
 #: definitions.json
-msgid "SSH Honeypot"
-msgstr ""
-
-#: definitions.json
-msgid "LuCI extensions"
-msgstr ""
-
-#: definitions.json
-msgid "LXC utilities"
-msgstr ""
-
-#: definitions.json
-msgid ""
-"Set of utilities to manage Linux Containers (lightweight virtualization "
-"technology)."
-msgstr ""
-
-#: definitions.json
-msgid "NAS"
-msgstr ""
-
-#: definitions.json
-msgid ""
-"Services allowing to connect a disk to the router and use it as network data"
-" store."
-msgstr ""
-
-#: definitions.json
-msgid "Turris MOX network boot"
-msgstr ""
-
-#: definitions.json
-msgid "Internet connection speed measurement"
-msgstr ""
-
-#: definitions.json
-msgid ""
-"Actively measures speed of Internet connection using netmetr.cz service."
-msgstr ""
-
-#: definitions.json
-msgid "OpenVPN"
-msgstr ""
-
-#: definitions.json
-msgid "Pakon"
-msgstr ""
-
-#: definitions.json
-msgid ""
-"Services allowing to connect a printer to the router and use it for remote "
-"printing."
-msgstr ""
-
-#: definitions.json
-msgid "Tor"
-msgstr ""
-
-#: definitions.json
-msgid "Service to increase anonymity on the Internet."
+msgid "Hardening"
 msgstr ""
 
 #: definitions.json
@@ -91,43 +104,39 @@ msgid "Seccomp tools for system hardening."
 msgstr ""
 
 #: definitions.json
-msgid "Nextcloud"
+msgid "Common passwords filter"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Compare new password you are about to set to access router with list of "
+"common passwords used by robots trapped in Turris honeypots."
+msgstr ""
+
+#: definitions.json
+msgid "OpenWrt's process jail"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"ujail allows to limit processes by limiting syscalls and file-system access"
+msgstr ""
+
+#: definitions.json
+msgid "Secure Computing Mode (seccomp)"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Optional support for seccomp allowing processes to isolate from them self"
+msgstr ""
+
+#: definitions.json
+msgid "LuCI extensions"
 msgstr ""
 
 #: definitions.json
 msgid "Several additional tabs and controls for the advanced LuCI interface."
-msgstr ""
-
-#: definitions.json
-msgid "Network monitoring and parental control"
-msgstr ""
-
-#: definitions.json
-msgid "Tools to monitor local network and users on it."
-msgstr ""
-
-#: definitions.json
-msgid "Support for Turris Omnia and Turris MOX LTE pack."
-msgstr ""
-
-#: definitions.json
-msgid "Usage Survey"
-msgstr ""
-
-#: definitions.json
-msgid "Dynamic Firewall"
-msgstr ""
-
-#: definitions.json
-msgid "Firewall Logs"
-msgstr ""
-
-#: definitions.json
-msgid "Minipots"
-msgstr ""
-
-#: definitions.json
-msgid "Hardening"
 msgstr ""
 
 #: definitions.json
@@ -168,11 +177,46 @@ msgid "Print server (p910nd)"
 msgstr ""
 
 #: definitions.json
+msgid ""
+"Services allowing to connect a printer to the router and use it for remote "
+"printing."
+msgstr ""
+
+#: definitions.json
 msgid "Statistics"
 msgstr ""
 
 #: definitions.json
 msgid "Gather and render diagrams for system statistics by using collectd."
+msgstr ""
+
+#: definitions.json
+msgid "WireGuard"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
+msgstr ""
+
+#: definitions.json
+msgid "LXC utilities"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Set of utilities to manage Linux Containers (lightweight virtualization "
+"technology)."
+msgstr ""
+
+#: definitions.json
+msgid "NAS"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Services allowing to connect a disk to the router and use it as network data"
+" store."
 msgstr ""
 
 #: definitions.json
@@ -216,6 +260,23 @@ msgid "Add support to access encrypted storage devices using dm-crypt."
 msgstr ""
 
 #: definitions.json
+msgid "Network monitoring and parental control"
+msgstr ""
+
+#: definitions.json
+msgid "Tools to monitor local network and users on it."
+msgstr ""
+
+#: definitions.json
+msgid "Internet connection speed measurement"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Actively measures speed of Internet connection using netmetr.cz service."
+msgstr ""
+
+#: definitions.json
 msgid "New devices detection"
 msgstr ""
 
@@ -224,7 +285,23 @@ msgid "Software for detecting new devices on local network."
 msgstr ""
 
 #: definitions.json
+msgid "Pakon"
+msgstr ""
+
+#: definitions.json
 msgid "Software for in depth monitoring of your traffic using Suricata."
+msgstr ""
+
+#: definitions.json
+msgid "Morce"
+msgstr ""
+
+#: definitions.json
+msgid "Simple integration of Intrusion Detection System."
+msgstr ""
+
+#: definitions.json
+msgid "Turris MOX network boot"
 msgstr ""
 
 #: definitions.json
@@ -233,9 +310,68 @@ msgid ""
 msgstr ""
 
 #: definitions.json
+msgid "Netdata"
+msgstr ""
+
+#: definitions.json
+msgid "Real-time perfomance and health monitoring options."
+msgstr ""
+
+#: definitions.json
+msgid "Nextcloud"
+msgstr ""
+
+#: definitions.json
 msgid ""
 "Self-hosted files hosting and productivity platform that keeps you in "
 "control. Alternative to services such as Dropbox or Google Drive."
+msgstr ""
+
+#: definitions.json
+msgid "OpenVPN"
+msgstr ""
+
+#: definitions.json
+msgid "Easy setup of the OpenVPN client and server from Foris."
+msgstr ""
+
+#: definitions.json
+msgid "Tor"
+msgstr ""
+
+#: definitions.json
+msgid "Service to increase anonymity on the Internet."
+msgstr ""
+
+#: definitions.json
+msgid "Alternative core drivers"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"These options allow you to use alternative drivers over those available in "
+"default installation. You can try to enable these if you encounter some "
+"problems with default ones."
+msgstr ""
+
+#: definitions.json
+msgid "Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x"
+msgstr ""
+
+#: definitions.json
+msgid "Alternative driver from Candela Technologies."
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x with "
+"improved stability in busy networks"
+msgstr ""
+
+#: definitions.json
+msgid ""
+"Alternative driver from Candela Technologies. It uses HTT TX data path for "
+"management frames, which improves stability in busy networks."
 msgstr ""
 
 #: labels.json
@@ -319,219 +455,3 @@ msgid ""
 "on faster uplinks but because of that it still can be decremental to some "
 "users."
 msgstr ""
-
-#: definitions.json
-msgid "Alternative core drivers"
-msgstr ""
-
-#: definitions.json
-msgid ""
-"These options allow you to use alternative drivers over those available in "
-"default installation. You can try to enable these if you encounter some "
-"problems with default ones."
-msgstr ""
-
-#: definitions.json
-msgid "Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x"
-msgstr ""
-
-#: definitions.json
-msgid "Alternative driver from Candela Technologies."
-msgstr ""
-
-#: definitions.json
-msgid ""
-"Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x with "
-"improved stability in busy networks"
-msgstr ""
-
-#: definitions.json
-msgid ""
-"Alternative driver from Candela Technologies. It uses HTT TX data path for "
-"management frames, which improves stability in busy networks."
-msgstr ""
-
-#: definitions.json
-msgid "Netdata"
-msgstr ""
-
-#: definitions.json
-msgid "Real-time perfomance and health monitoring options."
-msgstr ""
-
-#: definitions.json
-msgid "RIPE Atlas SW Probe"
-msgstr ""
-
-#: definitions.json
-msgid ""
-"Global platform, which measures Internet connectivity and reachability."
-msgstr ""
-
-#: definitions.json
-msgid "WireGuard"
-msgstr ""
-
-#: definitions.json
-msgid ""
-"Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
-msgstr ""
-
-#: definitions.json
-msgid "Common passwords filter"
-msgstr ""
-
-#: definitions.json
-msgid ""
-"Compare new password you are about to set to access router with list of "
-"common passwords used by robots trapped in Turris honeypots."
-msgstr ""
-
-#: definitions.json
-msgid "OpenWrt's process jail"
-msgstr ""
-
-#: definitions.json
-msgid ""
-"ujail allows to limit processes by limiting syscalls and file-system access"
-msgstr ""
-
-#: definitions.json
-msgid "Secure Computing Mode (seccomp)"
-msgstr ""
-
-#: definitions.json
-msgid ""
-"Optional support for seccomp allowing processes to isolate from them self"
-msgstr ""
-
-#: definitions.json
-msgid "Easy setup of the OpenVPN client and server from Foris."
-msgstr ""
-
-#: definitions.json
-msgid "Advanced security & analytics - Turris Sentinel"
-msgstr ""
-
-#: definitions.json
-msgid ""
-"Software for participation in threat detection program which provides "
-"distributed adaptive firewall and statistics."
-msgstr ""
-
-#: definitions.json
-msgid ""
-"Collects data about router usage (installed packages, Internet connection "
-"type and etc.)."
-msgstr ""
-
-#: definitions.json
-msgid ""
-"Adds firewall rules to block attackers detected by Turris Sentinel network."
-msgstr ""
-
-#: definitions.json
-msgid ""
-"Threat detection tool. Collects firewall logs about failed connection "
-"attempts."
-msgstr ""
-
-#: definitions.json
-msgid ""
-"Threat detection tool. Minimal honeypots to catch attackers by mimicking "
-"various protocols."
-msgstr ""
-
-#: definitions.json
-msgid ""
-"Threat detection tool. SSH honeypot using Honeypot as a Service "
-"(haas.nic.cz)."
-msgstr ""
-
-#~ msgid "Data Collection"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Software for participation in data collection and distributed adaptive "
-#~ "firewall."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Collect data about router usage (installed packages, Internet connection "
-#~ "type and etc.)."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Add firewall rules to block attackers detected by Turris collection network."
-#~ msgstr ""
-
-#~ msgid "Collect logs from firewall for attempted connections."
-#~ msgstr ""
-
-#~ msgid "Minimal honeypots to catch attackers for various protocols."
-#~ msgstr ""
-
-#~ msgid "SSH honeypot using Honeypot as a Service (haas.nic.cz)."
-#~ msgstr ""
-
-#~ msgid "Easy setup of the OpenVPN server from Foris."
-#~ msgstr ""
-
-#~ msgid "Support for additional protocols and connection types."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Software for participation in data collection and dynamic distributed "
-#~ "firewall."
-#~ msgstr ""
-
-#~ msgid "Device detection"
-#~ msgstr ""
-
-#~ msgid "Software for detecting new devices on local network (EXPERIMENTAL)."
-#~ msgstr ""
-
-#~ msgid "Trap for password-guessing robots on SSH."
-#~ msgstr ""
-
-#~ msgid "Several addional tabs and controls for the advanced LuCI interface."
-#~ msgstr ""
-
-#~ msgid "An easy setup of OpenVPN server from Foris."
-#~ msgstr ""
-
-#~ msgid "Software for in depth monitoring of your traffic."
-#~ msgstr ""
-
-#~ msgid "Print server"
-#~ msgstr ""
-
-#~ msgid "Server side for Turris MOX without SD card used as Wi-Fi access point."
-#~ msgstr ""
-
-#~ msgid "Cloud Backups"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Service for storing configuration backups on remote servers (EXPERIMENTAL)."
-#~ msgstr ""
-
-#~ msgid "Hardening (experimental)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Self-hosted files hosting and productivity platform that keeps you in "
-#~ "control. Alternative to services such as Dropbox or Google Drive. "
-#~ "(EXPERIMENTAL)"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Server side for Turris MOX without SD card used as Wi-Fi access point. "
-#~ "(EXPERIMENTAL)"
-#~ msgstr ""
-
-#~ msgid "reForis (experimental)"
-#~ msgstr ""
-
-#~ msgid "Redesigned Foris is new web interface for Turris routers."
-#~ msgstr ""
