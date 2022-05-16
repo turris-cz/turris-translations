@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2020-02-24 14:38\n"
-"PO-Revision-Date: 2021-09-22 16:36+0000\n"
+"PO-Revision-Date: 2022-03-19 16:57+0000\n"
 "Last-Translator: Atec <dr.atec@gmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/turris/pkglists/"
 "sk/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.12-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -230,7 +230,7 @@ msgstr "Pridanie podpory na prístup k šifrovanému úložisku pomocou dm-crypt
 
 #: definitions.json
 msgid "New devices detection"
-msgstr "Detekcia nových zariadení"
+msgstr "Zisťovanie nových zariadení"
 
 #: definitions.json
 msgid "Software for detecting new devices on local network."
@@ -312,8 +312,8 @@ msgid ""
 "amount of writes."
 msgstr ""
 "Pri použití tohto zoznamu balíčkov sa dôrazne odporúča využitie externého "
-"úložiska. Software v tomto zozname balíčkov môže spôsobiť opotrebovanie "
-"flash úložiska, pretože vykonáva veľké množstvo zápisov."
+"úložiska. Software v tomto zozname balíčkov vykonáva veľké množstvo zápisov "
+"a môže spôsobiť opotrebovanie flash úložiska."
 
 #: labels.json
 msgid "High memory usage"
@@ -325,8 +325,8 @@ msgid ""
 "It is not suggested to use it with small memory."
 msgstr ""
 "Software v tomto zozname balíčkov môže na svoju činnosť vyžadovať väčšie "
-"množstvo operačnej pamäti. Neodporúča sa ho používať s malým množstvom "
-"pamäti."
+"množstvo operačnej pamäte. Neodporúča sa ho používať s malým množstvom "
+"pamäte."
 
 #: labels.json
 msgid "High storage usage"
@@ -401,7 +401,7 @@ msgstr "Netdata"
 
 #: definitions.json
 msgid "Real-time perfomance and health monitoring options."
-msgstr "Voľby na monitorovanie výkonu a stavu systému v reálnom čase."
+msgstr "Možnosti na monitorovanie výkonu a stavu systému v reálnom čase."
 
 #: definitions.json
 msgid "RIPE Atlas SW Probe"
@@ -417,8 +417,7 @@ msgstr "WireGuard"
 
 #: definitions.json
 msgid "Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
-msgstr ""
-"Alternatíva OpenVPN, ktorá ponúka rýchly, moderný a bezpečný VPN tunel."
+msgstr "Alternatíva OpenVPN, ktorá ponúka rýchly, moderný a bezpečný VPN tunel."
 
 #: definitions.json
 msgid "Common passwords filter"
@@ -459,15 +458,15 @@ msgstr "Jednoduché nastavenie klienta a servera OpenVPN z rozhrania Foris."
 
 #: definitions.json
 msgid "Advanced security & analytics - Turris Sentinel"
-msgstr "Pokročilé zabezpečenie a analytika - Turris Sentinel"
+msgstr "Pokročilé zabezpečenie a analytika – Turris Sentinel"
 
 #: definitions.json
 msgid ""
 "Software for participation in threat detection program which provides "
 "distributed adaptive firewall and statistics."
 msgstr ""
-"Software na účasť v programe detekcie hrozieb, ktorý poskytuje distribuovaný "
-"adaptívny firewall a štatistiku."
+"Software na zapojenie sa do programu detekcie bezpečnostných hrozieb, ktorý "
+"poskytuje distribuovaný adaptívny firewall a štatistiku."
 
 #: definitions.json
 msgid ""
@@ -489,24 +488,24 @@ msgid ""
 "Threat detection tool. Collects firewall logs about failed connection "
 "attempts."
 msgstr ""
-"Nástroj na detekciu ohrozenia. Zhromažďuje záznamy firewallu o neúspešných "
-"pokusoch o pripojenie."
+"Nástroj na detekciu bezpečnostného ohrozenia. Zhromažďuje záznamy firewallu "
+"o neúspešných pokusoch o pripojenie."
 
 #: definitions.json
 msgid ""
 "Threat detection tool. Minimal honeypots to catch attackers by mimicking "
 "various protocols."
 msgstr ""
-"Nástroj na detekciu ohrozenia. Minimálne honeypoty na zachytenie útokov "
-"imitovaním rôznych protokolov."
+"Nástroj na detekciu bezpečnostného ohrozenia. Minimálne honeypoty na "
+"zachytenie útokov imitovaním rôznych protokolov."
 
 #: definitions.json
 msgid ""
 "Threat detection tool. SSH honeypot using Honeypot as a Service (haas.nic."
 "cz)."
 msgstr ""
-"Nástroj na detekciu ohrozenia. SSH honeypot s použitím Honeypot as a Service "
-"(haas.nic.cz)."
+"Nástroj na detekciu bezpečnostného ohrozenia. SSH honeypot s použitím "
+"Honeypot as a Service (haas.nic.cz)."
 
 #~ msgid "Data Collection"
 #~ msgstr "Zber dát"
