@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
-"POT-Creation-Date: 2020-02-24 14:38\n"
+"POT-Creation-Date: 2022-05-16 10:29\n"
 "PO-Revision-Date: 2022-03-19 16:57+0000\n"
 "Last-Translator: Atec <dr.atec@gmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/turris/pkglists/"
@@ -20,6 +20,89 @@ msgid "Extensions of network protocols for 3G/LTE"
 msgstr "Rozšírenia sieťových protokolov pre 3G/LTE"
 
 #: definitions.json
+msgid "Support for Turris Omnia and Turris MOX LTE pack."
+msgstr "Podpora pre Turris Omnia a Turris MOX LTE pack."
+
+#: definitions.json
+msgid "Advanced security & analytics - Turris Sentinel"
+msgstr "Pokročilé zabezpečenie a analytika – Turris Sentinel"
+
+#: definitions.json
+msgid ""
+"Software for participation in threat detection program which provides "
+"distributed adaptive firewall and statistics."
+msgstr ""
+"Software na zapojenie sa do programu detekcie bezpečnostných hrozieb, ktorý "
+"poskytuje distribuovaný adaptívny firewall a štatistiku."
+
+#: definitions.json
+msgid "Usage Survey"
+msgstr "Prieskum využitia"
+
+#: definitions.json
+msgid ""
+"Collects data about router usage (installed packages, Internet connection "
+"type and etc.)."
+msgstr ""
+"Zber údajov o používaní routera (nainštalované balíčky, druh internetového "
+"pripojenia a pod.)."
+
+#: definitions.json
+msgid "Dynamic Firewall"
+msgstr "Dynamický firewall"
+
+#: definitions.json
+msgid ""
+"Adds firewall rules to block attackers detected by Turris Sentinel network."
+msgstr ""
+"Pridáva pravidlá pre firewall na blokovanie útočníkov zachytených sieťou "
+"Turris Sentinel."
+
+#: definitions.json
+msgid "Firewall Logs"
+msgstr "Záznamy firewallu"
+
+#: definitions.json
+msgid ""
+"Threat detection tool. Collects firewall logs about failed connection "
+"attempts."
+msgstr ""
+"Nástroj na detekciu bezpečnostného ohrozenia. Zhromažďuje záznamy firewallu "
+"o neúspešných pokusoch o pripojenie."
+
+#: definitions.json
+msgid "Minipots"
+msgstr "Minipoty"
+
+#: definitions.json
+msgid ""
+"Threat detection tool. Minimal honeypots to catch attackers by mimicking "
+"various protocols."
+msgstr ""
+"Nástroj na detekciu bezpečnostného ohrozenia. Minimálne honeypoty na "
+"zachytenie útokov imitovaním rôznych protokolov."
+
+#: definitions.json
+msgid "SSH Honeypot"
+msgstr "SSH honeypot"
+
+#: definitions.json
+msgid ""
+"Threat detection tool. SSH honeypot using Honeypot as a Service (haas.nic."
+"cz)."
+msgstr ""
+"Nástroj na detekciu bezpečnostného ohrozenia. SSH honeypot s použitím "
+"Honeypot as a Service (haas.nic.cz)."
+
+#: definitions.json
+msgid "RIPE Atlas SW Probe"
+msgstr "RIPE Atlas SW Probe"
+
+#: definitions.json
+msgid "Global platform, which measures Internet connectivity and reachability."
+msgstr "Globálna platforma na meranie internetovej konektivity a dostupnosti."
+
+#: definitions.json
 msgid "DVB tuner"
 msgstr "DVB tuner"
 
@@ -32,117 +115,54 @@ msgstr ""
 "pripojeným k Turrisu. Neobsahuje ovládače zariadení."
 
 #: definitions.json
-msgid "SSH Honeypot"
-msgstr "SSH honeypot"
-
-#: definitions.json
-msgid "LuCI extensions"
-msgstr "Rozšírenia do LuCI"
-
-#: definitions.json
-msgid "LXC utilities"
-msgstr "Nástroje pre LXC"
-
-#: definitions.json
-msgid ""
-"Set of utilities to manage Linux Containers (lightweight virtualization "
-"technology)."
-msgstr ""
-"Súprava nástrojov na spravovanie linuxových kontajnerov (odľahčená "
-"virtualizačná technológia)."
-
-#: definitions.json
-msgid "NAS"
-msgstr "NAS (sieťové úložisko)"
-
-#: definitions.json
-msgid ""
-"Services allowing to connect a disk to the router and use it as network data "
-"store."
-msgstr ""
-"Služby umožňujúce pripojiť k routeru disk a používať ho ako sieťové úložisko."
-
-#: definitions.json
-msgid "Turris MOX network boot"
-msgstr "Spustenie systému na Turris MOX zo siete"
-
-#: definitions.json
-msgid "Internet connection speed measurement"
-msgstr "Meranie rýchlosti pripojenia k internetu"
-
-#: definitions.json
-msgid ""
-"Actively measures speed of Internet connection using netmetr.cz service."
-msgstr "Aktívne meranie rýchlosti internetového pripojenia službou netmetr.cz."
-
-#: definitions.json
-msgid "OpenVPN"
-msgstr "OpenVPN"
-
-#: definitions.json
-msgid "Pakon"
-msgstr "Pakon"
-
-#: definitions.json
-msgid ""
-"Services allowing to connect a printer to the router and use it for remote "
-"printing."
-msgstr ""
-"Služby umožňujúce pripojiť k routeru tlačiareň a používať ju na tlač po "
-"sieti."
-
-#: definitions.json
-msgid "Tor"
-msgstr "Tor"
-
-#: definitions.json
-msgid "Service to increase anonymity on the Internet."
-msgstr "Služba na zvýšenie anonymity na internete."
+msgid "Hardening"
+msgstr "Posilnenie bezpečnosti"
 
 #: definitions.json
 msgid "Seccomp tools for system hardening."
 msgstr "Nástroje Seccomp na posilnenie bezpečnosti systému."
 
 #: definitions.json
-msgid "Nextcloud"
-msgstr "Nextcloud"
+msgid "Common passwords filter"
+msgstr "Filter najpoužívanejších hesiel"
+
+#: definitions.json
+msgid ""
+"Compare new password you are about to set to access router with list of "
+"common passwords used by robots trapped in Turris honeypots."
+msgstr ""
+"Porovnáva nové heslo, ktoré chcete nastaviť na prístup k routeru, so "
+"zoznamom najčastejších hesiel používaných robotmi zachytených v honeypotoch "
+"Turris."
+
+#: definitions.json
+msgid "OpenWrt's process jail"
+msgstr "Izolácia procesov OpenWrt"
+
+#: definitions.json
+msgid ""
+"ujail allows to limit processes by limiting syscalls and file-system access"
+msgstr ""
+"ujail umožňuje obmedziť procesy limitovaním systémových volaní a prístupov k "
+"súborovému systému"
+
+#: definitions.json
+msgid "Secure Computing Mode (seccomp)"
+msgstr "Bezpečný režim (seccomp)"
+
+#: definitions.json
+msgid ""
+"Optional support for seccomp allowing processes to isolate from them self"
+msgstr "Voliteľná podpora seccomp umožňuje vzájomné izolovanie procesov"
+
+#: definitions.json
+msgid "LuCI extensions"
+msgstr "Rozšírenia do LuCI"
 
 #: definitions.json
 msgid "Several additional tabs and controls for the advanced LuCI interface."
 msgstr ""
 "Niekoľko ďalších záložiek a ovládacích prvkov do pokročilého rozhrania LuCI."
-
-#: definitions.json
-msgid "Network monitoring and parental control"
-msgstr "Monitoring siete a rodičovská kontrola"
-
-#: definitions.json
-msgid "Tools to monitor local network and users on it."
-msgstr "Nástroje na monitorovanie miestnej siete a jej užívateľov."
-
-#: definitions.json
-msgid "Support for Turris Omnia and Turris MOX LTE pack."
-msgstr "Podpora pre Turris Omnia a Turris MOX LTE pack."
-
-#: definitions.json
-msgid "Usage Survey"
-msgstr "Prieskum využitia"
-
-#: definitions.json
-msgid "Dynamic Firewall"
-msgstr "Dynamický firewall"
-
-#: definitions.json
-msgid "Firewall Logs"
-msgstr "Záznamy firewallu"
-
-#: definitions.json
-msgid "Minipots"
-msgstr "Minipoty"
-
-#: definitions.json
-msgid "Hardening"
-msgstr "Posilnenie bezpečnosti"
 
 #: definitions.json
 msgid "AdBlock"
@@ -181,12 +201,52 @@ msgid "Print server (p910nd)"
 msgstr "Tlačový server (p910nd)"
 
 #: definitions.json
+msgid ""
+"Services allowing to connect a printer to the router and use it for remote "
+"printing."
+msgstr ""
+"Služby umožňujúce pripojiť k routeru tlačiareň a používať ju na tlač po "
+"sieti."
+
+#: definitions.json
 msgid "Statistics"
 msgstr "Štatistiky"
 
 #: definitions.json
 msgid "Gather and render diagrams for system statistics by using collectd."
 msgstr "Zber a vykreslenie diagramov systémových štatistík pomocou collectd."
+
+#: definitions.json
+msgid "WireGuard"
+msgstr "WireGuard"
+
+#: definitions.json
+msgid "Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
+msgstr ""
+"Alternatíva OpenVPN, ktorá ponúka rýchly, moderný a bezpečný VPN tunel."
+
+#: definitions.json
+msgid "LXC utilities"
+msgstr "Nástroje pre LXC"
+
+#: definitions.json
+msgid ""
+"Set of utilities to manage Linux Containers (lightweight virtualization "
+"technology)."
+msgstr ""
+"Súprava nástrojov na spravovanie linuxových kontajnerov (odľahčená "
+"virtualizačná technológia)."
+
+#: definitions.json
+msgid "NAS"
+msgstr "NAS (sieťové úložisko)"
+
+#: definitions.json
+msgid ""
+"Services allowing to connect a disk to the router and use it as network data "
+"store."
+msgstr ""
+"Služby umožňujúce pripojiť k routeru disk a používať ho ako sieťové úložisko."
 
 #: definitions.json
 msgid "Samba"
@@ -229,6 +289,23 @@ msgid "Add support to access encrypted storage devices using dm-crypt."
 msgstr "Pridanie podpory na prístup k šifrovanému úložisku pomocou dm-crypt."
 
 #: definitions.json
+msgid "Network monitoring and parental control"
+msgstr "Monitoring siete a rodičovská kontrola"
+
+#: definitions.json
+msgid "Tools to monitor local network and users on it."
+msgstr "Nástroje na monitorovanie miestnej siete a jej užívateľov."
+
+#: definitions.json
+msgid "Internet connection speed measurement"
+msgstr "Meranie rýchlosti pripojenia k internetu"
+
+#: definitions.json
+msgid ""
+"Actively measures speed of Internet connection using netmetr.cz service."
+msgstr "Aktívne meranie rýchlosti internetového pripojenia službou netmetr.cz."
+
+#: definitions.json
 msgid "New devices detection"
 msgstr "Zisťovanie nových zariadení"
 
@@ -237,10 +314,26 @@ msgid "Software for detecting new devices on local network."
 msgstr "Software na zistenie nových zariadení v miestnej sieti."
 
 #: definitions.json
+msgid "Pakon"
+msgstr "Pakon"
+
+#: definitions.json
 msgid "Software for in depth monitoring of your traffic using Suricata."
 msgstr ""
 "Software na hĺbkové monitorovanie sieťovej prevádzky s využitím programu "
 "Suricata."
+
+#: definitions.json
+msgid "Morce"
+msgstr ""
+
+#: definitions.json
+msgid "Simple integration of Intrusion Detection System."
+msgstr ""
+
+#: definitions.json
+msgid "Turris MOX network boot"
+msgstr "Spustenie systému na Turris MOX zo siete"
 
 #: definitions.json
 msgid ""
@@ -250,12 +343,77 @@ msgstr ""
 "prístupový bod."
 
 #: definitions.json
+msgid "Netdata"
+msgstr "Netdata"
+
+#: definitions.json
+msgid "Real-time perfomance and health monitoring options."
+msgstr "Možnosti na monitorovanie výkonu a stavu systému v reálnom čase."
+
+#: definitions.json
+msgid "Nextcloud"
+msgstr "Nextcloud"
+
+#: definitions.json
 msgid ""
 "Self-hosted files hosting and productivity platform that keeps you in "
 "control. Alternative to services such as Dropbox or Google Drive."
 msgstr ""
 "Vlastný súborový hosting a kancelárska platforma, ktoré sú pod vašou "
 "kontrolou. Alternatíva k službám ako sú Dropbox alebo Google Drive."
+
+#: definitions.json
+msgid "OpenVPN"
+msgstr "OpenVPN"
+
+#: definitions.json
+msgid "Easy setup of the OpenVPN client and server from Foris."
+msgstr "Jednoduché nastavenie klienta a servera OpenVPN z rozhrania Foris."
+
+#: definitions.json
+msgid "Tor"
+msgstr "Tor"
+
+#: definitions.json
+msgid "Service to increase anonymity on the Internet."
+msgstr "Služba na zvýšenie anonymity na internete."
+
+#: definitions.json
+msgid "Alternative core drivers"
+msgstr "Alternatívne ovládače"
+
+#: definitions.json
+msgid ""
+"These options allow you to use alternative drivers over those available in "
+"default installation. You can try to enable these if you encounter some "
+"problems with default ones."
+msgstr ""
+"Tieto voľby umožňujú použiť alternatívne ovládače namiesto východiskových. "
+"Môžete sa ich pokúsiť povoliť, ak východiskové ovládače spôsobujú problémy."
+
+#: definitions.json
+msgid "Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x"
+msgstr "Ovládače Candela Technologies Wi-Fi pre Qualcomm Atheros QCA988x"
+
+#: definitions.json
+msgid "Alternative driver from Candela Technologies."
+msgstr "Alternatívny ovládač od Candela Technologies."
+
+#: definitions.json
+msgid ""
+"Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x with "
+"improved stability in busy networks"
+msgstr ""
+"Ovládače Candela Technologies Wi-Fi pre Qualcomm Atheros QCA988x so zvýšenou "
+"stabilitou v zaťažených sieťach"
+
+#: definitions.json
+msgid ""
+"Alternative driver from Candela Technologies. It uses HTT TX data path for "
+"management frames, which improves stability in busy networks."
+msgstr ""
+"Alternatívny ovládač od Candela Technologies. Na správu rámcov sa používa "
+"dátová cesta HTT TX, čím sa v zaťažených sieťach zvyšuje stabilita."
 
 #: labels.json
 msgid "Advanced users"
@@ -357,155 +515,6 @@ msgstr ""
 "Táto funkcionalita môže znížiť výkon siete. Prejaviť sa to môže len pri "
 "rýchlejších uplinkoch, napriek tomu môže dôjsť k spomaleniu niektorých "
 "užívateľov."
-
-#: definitions.json
-msgid "Alternative core drivers"
-msgstr "Alternatívne ovládače"
-
-#: definitions.json
-msgid ""
-"These options allow you to use alternative drivers over those available in "
-"default installation. You can try to enable these if you encounter some "
-"problems with default ones."
-msgstr ""
-"Tieto voľby umožňujú použiť alternatívne ovládače namiesto východiskových. "
-"Môžete sa ich pokúsiť povoliť, ak východiskové ovládače spôsobujú problémy."
-
-#: definitions.json
-msgid "Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x"
-msgstr "Ovládače Candela Technologies Wi-Fi pre Qualcomm Atheros QCA988x"
-
-#: definitions.json
-msgid "Alternative driver from Candela Technologies."
-msgstr "Alternatívny ovládač od Candela Technologies."
-
-#: definitions.json
-msgid ""
-"Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x with "
-"improved stability in busy networks"
-msgstr ""
-"Ovládače Candela Technologies Wi-Fi pre Qualcomm Atheros QCA988x so zvýšenou "
-"stabilitou v zaťažených sieťach"
-
-#: definitions.json
-msgid ""
-"Alternative driver from Candela Technologies. It uses HTT TX data path for "
-"management frames, which improves stability in busy networks."
-msgstr ""
-"Alternatívny ovládač od Candela Technologies. Na správu rámcov sa používa "
-"dátová cesta HTT TX, čím sa v zaťažených sieťach zvyšuje stabilita."
-
-#: definitions.json
-msgid "Netdata"
-msgstr "Netdata"
-
-#: definitions.json
-msgid "Real-time perfomance and health monitoring options."
-msgstr "Možnosti na monitorovanie výkonu a stavu systému v reálnom čase."
-
-#: definitions.json
-msgid "RIPE Atlas SW Probe"
-msgstr "RIPE Atlas SW Probe"
-
-#: definitions.json
-msgid "Global platform, which measures Internet connectivity and reachability."
-msgstr "Globálna platforma na meranie internetovej konektivity a dostupnosti."
-
-#: definitions.json
-msgid "WireGuard"
-msgstr "WireGuard"
-
-#: definitions.json
-msgid "Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
-msgstr "Alternatíva OpenVPN, ktorá ponúka rýchly, moderný a bezpečný VPN tunel."
-
-#: definitions.json
-msgid "Common passwords filter"
-msgstr "Filter najpoužívanejších hesiel"
-
-#: definitions.json
-msgid ""
-"Compare new password you are about to set to access router with list of "
-"common passwords used by robots trapped in Turris honeypots."
-msgstr ""
-"Porovnáva nové heslo, ktoré chcete nastaviť na prístup k routeru, so "
-"zoznamom najčastejších hesiel používaných robotmi zachytených v honeypotoch "
-"Turris."
-
-#: definitions.json
-msgid "OpenWrt's process jail"
-msgstr "Izolácia procesov OpenWrt"
-
-#: definitions.json
-msgid ""
-"ujail allows to limit processes by limiting syscalls and file-system access"
-msgstr ""
-"ujail umožňuje obmedziť procesy limitovaním systémových volaní a prístupov k "
-"súborovému systému"
-
-#: definitions.json
-msgid "Secure Computing Mode (seccomp)"
-msgstr "Bezpečný režim (seccomp)"
-
-#: definitions.json
-msgid ""
-"Optional support for seccomp allowing processes to isolate from them self"
-msgstr "Voliteľná podpora seccomp umožňuje vzájomné izolovanie procesov"
-
-#: definitions.json
-msgid "Easy setup of the OpenVPN client and server from Foris."
-msgstr "Jednoduché nastavenie klienta a servera OpenVPN z rozhrania Foris."
-
-#: definitions.json
-msgid "Advanced security & analytics - Turris Sentinel"
-msgstr "Pokročilé zabezpečenie a analytika – Turris Sentinel"
-
-#: definitions.json
-msgid ""
-"Software for participation in threat detection program which provides "
-"distributed adaptive firewall and statistics."
-msgstr ""
-"Software na zapojenie sa do programu detekcie bezpečnostných hrozieb, ktorý "
-"poskytuje distribuovaný adaptívny firewall a štatistiku."
-
-#: definitions.json
-msgid ""
-"Collects data about router usage (installed packages, Internet connection "
-"type and etc.)."
-msgstr ""
-"Zber údajov o používaní routera (nainštalované balíčky, druh internetového "
-"pripojenia a pod.)."
-
-#: definitions.json
-msgid ""
-"Adds firewall rules to block attackers detected by Turris Sentinel network."
-msgstr ""
-"Pridáva pravidlá pre firewall na blokovanie útočníkov zachytených sieťou "
-"Turris Sentinel."
-
-#: definitions.json
-msgid ""
-"Threat detection tool. Collects firewall logs about failed connection "
-"attempts."
-msgstr ""
-"Nástroj na detekciu bezpečnostného ohrozenia. Zhromažďuje záznamy firewallu "
-"o neúspešných pokusoch o pripojenie."
-
-#: definitions.json
-msgid ""
-"Threat detection tool. Minimal honeypots to catch attackers by mimicking "
-"various protocols."
-msgstr ""
-"Nástroj na detekciu bezpečnostného ohrozenia. Minimálne honeypoty na "
-"zachytenie útokov imitovaním rôznych protokolov."
-
-#: definitions.json
-msgid ""
-"Threat detection tool. SSH honeypot using Honeypot as a Service (haas.nic."
-"cz)."
-msgstr ""
-"Nástroj na detekciu bezpečnostného ohrozenia. SSH honeypot s použitím "
-"Honeypot as a Service (haas.nic.cz)."
 
 #~ msgid "Data Collection"
 #~ msgstr "Zber dát"
