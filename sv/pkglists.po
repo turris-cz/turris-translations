@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2022-05-16 10:29\n"
-"PO-Revision-Date: 2021-09-26 03:35+0000\n"
+"PO-Revision-Date: 2022-06-03 01:14+0000\n"
 "Last-Translator: Kristoffer Grundström <swedishsailfishosuser@tutanota.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/turris/pkglists/"
 "sv/>\n"
@@ -13,11 +13,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
-msgstr ""
+msgstr "Förlängningar av nätverksprotokollen för 3G/LTE"
 
 #: definitions.json
 msgid "Support for Turris Omnia and Turris MOX LTE pack."
@@ -25,7 +25,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Advanced security & analytics - Turris Sentinel"
-msgstr ""
+msgstr "Avancerad säkerhet och analys - Turris Sentinel"
 
 #: definitions.json
 msgid ""
@@ -54,7 +54,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Firewall Logs"
-msgstr ""
+msgstr "Brandväggsloggar"
 
 #: definitions.json
 msgid ""
