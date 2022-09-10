@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2022-05-16 10:29\n"
-"PO-Revision-Date: 2020-06-01 05:41+0000\n"
-"Last-Translator: Eduardo Cuthbert <elguber@gmail.com>\n"
-"Language-Team: Spanish <https://hosted.weblate.org/projects/turris/turris-"
-"pkglists-1/es/>\n"
+"PO-Revision-Date: 2022-09-11 16:18+0000\n"
+"Last-Translator: Dan Cybersec <dan.cybersec@protonmail.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/turris/pkglists/"
+"es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.14.1-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -21,58 +21,66 @@ msgstr "Extensiòn de protocolos de red para 3G/LTE"
 
 #: definitions.json
 msgid "Support for Turris Omnia and Turris MOX LTE pack."
-msgstr ""
+msgstr "Soporte para los paquetes de Turris Omnia y Turris MOX LTE."
 
 #: definitions.json
 msgid "Advanced security & analytics - Turris Sentinel"
-msgstr ""
+msgstr "Seguridad y análisis avanzados - Turris Sentinel"
 
 #: definitions.json
-#, fuzzy
 msgid ""
 "Software for participation in threat detection program which provides "
 "distributed adaptive firewall and statistics."
 msgstr ""
-"Software para paticipar en la colecciòn de datos y firewall distribuido."
+"Software para participar en el programa de detección de amenazas que provee "
+"de cortafuegos y estadísticas adaptativas distribuidas."
 
 #: definitions.json
 msgid "Usage Survey"
-msgstr ""
+msgstr "Encuesta de uso"
 
 #: definitions.json
 msgid ""
 "Collects data about router usage (installed packages, Internet connection "
 "type and etc.)."
 msgstr ""
+"Recolectar datos acerca del uso del router (paquetes instalados, tipo de "
+"conexión a internet, etc.)."
 
 #: definitions.json
 msgid "Dynamic Firewall"
-msgstr ""
+msgstr "Cortafuegos dinámico"
 
 #: definitions.json
 msgid ""
 "Adds firewall rules to block attackers detected by Turris Sentinel network."
 msgstr ""
+"Añade reglas de cortafuegos para bloquear a los atacantes detectados por la "
+"red de Turris Sentinel."
 
 #: definitions.json
 msgid "Firewall Logs"
-msgstr ""
+msgstr "Registros del cortafuegos"
 
 #: definitions.json
 msgid ""
 "Threat detection tool. Collects firewall logs about failed connection "
 "attempts."
 msgstr ""
+"Herramienta de detección de amenazas. Recopila los registros del cortafuegos "
+"que contienen los intentos de conexión fallidos."
 
 #: definitions.json
 msgid "Minipots"
-msgstr ""
+msgstr "Minipots"
 
 #: definitions.json
 msgid ""
 "Threat detection tool. Minimal honeypots to catch attackers by mimicking "
 "various protocols."
 msgstr ""
+"Herramienta de detección de amenazas. Honeypots ligeros para detectar "
+"atacantes con varios protocolos de imitación."
 
 #: definitions.json
 msgid "SSH Honeypot"
@@ -83,14 +91,16 @@ msgid ""
 "Threat detection tool. SSH honeypot using Honeypot as a Service (haas.nic."
 "cz)."
 msgstr ""
+"Herramienta de detección de amenazas. Honeypot SSH que utiliza \"Honeypot as "
+"a Service\" (haas.nic.cz)."
 
 #: definitions.json
 msgid "RIPE Atlas SW Probe"
-msgstr ""
+msgstr "Sonda RIPE Atlas SW"
 
 #: definitions.json
 msgid "Global platform, which measures Internet connectivity and reachability."
-msgstr ""
+msgstr "Plataforma global, que mide la conectividad y el acceso a Internet."
 
 #: definitions.json
 msgid "DVB tuner"
@@ -106,15 +116,15 @@ msgstr ""
 
 #: definitions.json
 msgid "Hardening"
-msgstr ""
+msgstr "Fortificación"
 
 #: definitions.json
 msgid "Seccomp tools for system hardening."
-msgstr ""
+msgstr "Herramientas Seccomp para la fortificación del sistema."
 
 #: definitions.json
 msgid "Common passwords filter"
-msgstr ""
+msgstr "Filtro de contraseñas comunes"
 
 #: definitions.json
 msgid ""
@@ -167,7 +177,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Tinyproxy"
-msgstr ""
+msgstr "Tinyproxy"
 
 #: definitions.json
 msgid "HTTP(S) proxy."
@@ -175,7 +185,7 @@ msgstr ""
 
 #: definitions.json
 msgid "UPnP"
-msgstr ""
+msgstr "UPnP"
 
 #: definitions.json
 msgid "Universal Plug and Play service."
