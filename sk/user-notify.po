@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: user-notify\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-20 20:57+0100\n"
-"PO-Revision-Date: 2022-03-21 17:56+0000\n"
+"PO-Revision-Date: 2022-10-22 17:03+0000\n"
 "Last-Translator: Atec <dr.atec@gmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/turris/"
 "user-notify/sk/>\n"
@@ -16,15 +16,16 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12-dev\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 
 #: format_and_set_srv.sh:21
 msgid "Another formatting job currently in progress, not switching to new drive."
-msgstr "Práve prebieha iné formátovanie. Prepnutie na nový disk sa nevyková."
+msgstr "Práve prebieha iné formátovanie. Prepnutie na nový disk sa nevykoná."
 
 #: format_and_set_srv.sh:38
 msgid "Formatting drive failed, try unpluging it and repluging it in again."
-msgstr "Formátovanie jednotky neúspešné. Skúste disk odpojiť a znovu pripojiť."
+msgstr ""
+"Formátovanie jednotky bolo neúspešné. Skúste disk odpojiť a znovu pripojiť."
 
 #: format_and_set_srv.sh:41
 msgid "Can't get UUID of your newly formatted drive."
@@ -50,8 +51,8 @@ msgid ""
 "Moving files failed, please check manually what went wrong and what files were "
 "left on your old drive."
 msgstr ""
-"Presunutie dát neúspešné. Ručne zistite, kde nastala chyba a aké súbory na "
-"pôvodnej jednotke zostali."
+"Presunutie dát neúspešné. Manuálne skontrolujte, kde nastala chyba, a aké "
+"súbory na pôvodnej jednotke zostali."
 
 #: generate-lxc.sh:38
 msgid "Distribution %1 version %2 was just installed as a container."
