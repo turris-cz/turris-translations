@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2022-05-16 10:29\n"
-"PO-Revision-Date: 2020-04-07 05:51+0000\n"
-"Last-Translator: BMN <weblate@yopmail.com>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/turris/turris-"
-"pkglists-1/de/>\n"
+"PO-Revision-Date: 2023-04-23 22:52+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/turris/pkglists/"
+"de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.0-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -21,7 +21,7 @@ msgstr "Erweiterungen der Netzwerkprotokolle für 3G/LTE"
 
 #: definitions.json
 msgid "Support for Turris Omnia and Turris MOX LTE pack."
-msgstr ""
+msgstr "Unterstützung für Turris Omnia und Turris MOX LTE Pack."
 
 #: definitions.json
 msgid "Advanced security & analytics - Turris Sentinel"
@@ -337,7 +337,7 @@ msgstr "Server für Turris MOX ohne SD-Karte der als Access Point benutzt wird."
 
 #: definitions.json
 msgid "Netdata"
-msgstr ""
+msgstr "Netzdaten"
 
 #: definitions.json
 msgid "Real-time perfomance and health monitoring options."
@@ -345,7 +345,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Nextcloud"
-msgstr ""
+msgstr "Nextcloud"
 
 #: definitions.json
 msgid ""
