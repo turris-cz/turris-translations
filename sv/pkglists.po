@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2022-05-16 10:29\n"
-"PO-Revision-Date: 2023-09-03 19:56+0000\n"
+"PO-Revision-Date: 2023-09-04 20:55+0000\n"
 "Last-Translator: Kristoffer Grundström <swedishsailfishosuser@tutanota.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/turris/pkglists/"
 "sv/>\n"
@@ -55,6 +55,8 @@ msgstr "Dynamisk brandvägg"
 msgid ""
 "Adds firewall rules to block attackers detected by Turris Sentinel network."
 msgstr ""
+"Lägger till brandväggsregler för att blockera attackerare via Turris "
+"Sentinel-nätverket."
 
 #: definitions.json
 msgid "Firewall Logs"
@@ -65,6 +67,8 @@ msgid ""
 "Threat detection tool. Collects firewall logs about failed connection "
 "attempts."
 msgstr ""
+"Verktyg för hotdetektering. Samlar in brandväggsloggar om misslyckade "
+"anslutningsförsök."
 
 #: definitions.json
 msgid "Minipots"
@@ -88,21 +92,23 @@ msgstr ""
 
 #: definitions.json
 msgid "RIPE Atlas SW Probe"
-msgstr ""
+msgstr "SW-prob för RIPE Atlas"
 
 #: definitions.json
 msgid "Global platform, which measures Internet connectivity and reachability."
-msgstr ""
+msgstr "Global plattform som mäter anslutbarhet och nåbarhet."
 
 #: definitions.json
 msgid "DVB tuner"
-msgstr ""
+msgstr "DVB-tuner"
 
 #: definitions.json
 msgid ""
 "Software for sharing television received by a DVB tuner on Turris. Does not "
 "include device drivers."
 msgstr ""
+"Mjukvara för att utdelning av television togs emot av DVB-tuner på Turris. "
+"Inkluderar inte enhetsdrivrutiner."
 
 #: definitions.json
 msgid "Hardening"
@@ -124,25 +130,29 @@ msgstr ""
 
 #: definitions.json
 msgid "OpenWrt's process jail"
-msgstr ""
+msgstr "OpenWrt's processfängelse"
 
 #: definitions.json
 msgid ""
 "ujail allows to limit processes by limiting syscalls and file-system access"
 msgstr ""
+"ujail tillåter att begränsa processer genom att begränsa syscalls och "
+"tillgång till filsystem"
 
 #: definitions.json
 msgid "Secure Computing Mode (seccomp)"
-msgstr ""
+msgstr "Säkert Beräkningsläge (seccomp)"
 
 #: definitions.json
 msgid ""
 "Optional support for seccomp allowing processes to isolate from them self"
 msgstr ""
+"Valfri support för seccomp som tillåter processer att isolera sig från sig "
+"själva"
 
 #: definitions.json
 msgid "LuCI extensions"
-msgstr ""
+msgstr "Tillägg för LuCi"
 
 #: definitions.json
 msgid "Several additional tabs and controls for the advanced LuCI interface."
