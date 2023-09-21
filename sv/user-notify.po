@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: user-notify\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-20 20:57+0100\n"
-"PO-Revision-Date: 2023-08-12 23:47+0000\n"
+"PO-Revision-Date: 2023-09-22 20:59+0000\n"
 "Last-Translator: Kristoffer Grundström <swedishsailfishosuser@tutanota.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/turris/"
 "user-notify/sv/>\n"
@@ -16,11 +16,12 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #: format_and_set_srv.sh:21
 msgid "Another formatting job currently in progress, not switching to new drive."
 msgstr ""
+"Ett annat formateringsjobb pågår för tillfället, byter inte till ny enhet."
 
 #: format_and_set_srv.sh:38
 msgid "Formatting drive failed, try unpluging it and repluging it in again."
@@ -66,6 +67,8 @@ msgstr ""
 msgid ""
 "Do not use containers on internal flash, they can wear it down really fast!!!"
 msgstr ""
+"Använd inte behållare eller internt flashminne, de kan slita ut det väldigt "
+"snabbt!!!"
 
 #: foris/config/__init__.py:246
 msgid "This is a testing notification. Please ignore me."
