@@ -7,26 +7,34 @@ msgstr ""
 "Project-Id-Version: user-notify\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-20 20:57+0100\n"
+"PO-Revision-Date: 2025-03-13 02:27+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/turris/user-notify/"
+"ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.3-dev\n"
 
 #: format_and_set_srv.sh:21
 msgid "Another formatting job currently in progress, not switching to new drive."
 msgstr ""
+"மற்றொரு வடிவமைப்பு வேலை தற்போது முன்னேற்றத்தில் உள்ளது, புதிய இயக்ககத்திற்கு மாறவில்லை."
 
 #: format_and_set_srv.sh:38
 msgid "Formatting drive failed, try unpluging it and repluging it in again."
 msgstr ""
+"வடிவமைத்தல் இயக்கி தோல்வியடைந்தது, அதை அவிழ்த்து மீண்டும் செருக முயற்சிக்கவும்."
 
 #: format_and_set_srv.sh:41
 msgid "Can't get UUID of your newly formatted drive."
-msgstr ""
+msgstr "உங்கள் புதிதாக வடிவமைக்கப்பட்ட இயக்ககத்தை பெற முடியாது."
 
 #: format_and_set_srv.sh:47
 msgid "Can't find your current srv location."
-msgstr ""
+msgstr "உங்கள் தற்போதைய SRV இருப்பிடத்தைக் கண்டுபிடிக்க முடியவில்லை."
 
 #: format_and_set_srv.sh:54
 msgid ""
@@ -35,28 +43,38 @@ msgid ""
 "you have some local data stored on your current storage, those will get moved "
 "during reboot, so your next reboot might take quite some time."
 msgstr ""
+"தரவை சேமிப்பதற்கான உங்கள் புதிய வட்டு வெற்றிகரமாக அமைக்கப்பட்டுள்ளது. மாற்றங்கள் "
+"நடைமுறைக்கு வருவதற்கு உங்கள் திசைவியை மறுதொடக்கம் செய்வதே இப்போது நீங்கள் செய்ய வேண்டியது"
+". உங்கள் தற்போதைய சேமிப்பகத்தில் சில உள்ளக தரவு சேமிக்கப்பட்டிருந்தால், அவை மறுதொடக்கத்தின் "
+"போது நகர்த்தப்படும் என்பதை அறிந்து கொள்ளுங்கள், எனவே உங்கள் அடுத்த மறுதொடக்கம் சிறிது நேரம் "
+"ஆகலாம்."
 
 #: srv.init:38
 msgid ""
 "Moving files failed, please check manually what went wrong and what files were "
 "left on your old drive."
 msgstr ""
+"கோப்புகளை நகர்த்துவது தோல்வியடைந்தது, தயவுசெய்து என்ன தவறு நடந்தது, உங்கள் பழைய "
+"இயக்ககத்தில் என்ன கோப்புகள் எஞ்சியுள்ளன என்பதை கைமுறையாக சரிபார்க்கவும்."
 
 #: generate-lxc.sh:38
 msgid "Distribution %1 version %2 was just installed as a container."
-msgstr ""
+msgstr "வழங்கல் %1 பதிப்பு %2 ஒரு கொள்கலனாக நிறுவப்பட்டது."
 
 #: generate-lxc.sh:40
 msgid ""
 "Content of the tarballs is provided by third party, thus there is no warranty "
 "of any kind nor support from Turris team."
 msgstr ""
+"டார்பால்சின் உள்ளடக்கம் மூன்றாம் தரப்பினரால் வழங்கப்படுகிறது, எனவே எந்த வகையான உத்தரவாதமும் "
+"அல்லது டர்ரிச் குழுவின் ஆதரவும் இல்லை."
 
 #: generate-lxc.sh:42
 msgid ""
 "Do not use containers on internal flash, they can wear it down really fast!!!"
 msgstr ""
+"உள் ஃபிளாச் மீது கொள்கலன்களைப் பயன்படுத்த வேண்டாம், அவர்கள் அதை மிகவும் வேகமாக அணியலாம் !!!"
 
 #: foris/config/__init__.py:246
 msgid "This is a testing notification. Please ignore me."
-msgstr ""
+msgstr "இது ஒரு சோதனை அறிவிப்பு. தயவுசெய்து என்னை புறக்கணிக்கவும்."
