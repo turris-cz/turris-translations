@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: user-notify\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-20 20:57+0100\n"
-"PO-Revision-Date: 2024-11-15 13:00+0000\n"
+"PO-Revision-Date: 2025-05-14 19:01+0000\n"
 "Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/turris/user-notify/"
 "cs/>\n"
@@ -16,14 +16,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: format_and_set_srv.sh:21
 msgid ""
 "Another formatting job currently in progress, not switching to new drive."
 msgstr ""
-"Nyní už probíhá jiná úloha formátování a proto je požadavek na změnu "
-"jednotky ignorován."
+"V tuto chvíli už probíhá jiná úloha formátování a proto je požadavek na "
+"změnu jednotky ignorován."
 
 #: format_and_set_srv.sh:38
 msgid "Formatting drive failed, try unpluging it and repluging it in again."
@@ -35,7 +35,7 @@ msgstr "Nedaří se získat UUID nově zformátované jednotky."
 
 #: format_and_set_srv.sh:47
 msgid "Can't find your current srv location."
-msgstr "Nedaří se nalézt stávající umístění srv."
+msgstr "Nebylo možné nalézt stávající umístění /srv."
 
 #: format_and_set_srv.sh:54
 msgid ""
@@ -46,8 +46,8 @@ msgid ""
 msgstr ""
 "Nová jednotka pro ukládání dat byla úspěšně připravena. Vše co je nyní třeba "
 "udělat, je směrovač restartovat. Pokud jste v původním umístění už měli "
-"nějaká data, následující restart může trvat o něco déle, protože se při něm "
-"budou soubory přesouvat."
+"nějaká data, následující restart může trvat o něco déle, protože při něm "
+"budou přesouvány soubory."
 
 #: srv.init:38
 msgid ""
