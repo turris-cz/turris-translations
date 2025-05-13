@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2022-05-16 10:29\n"
-"PO-Revision-Date: 2025-05-13 17:02+0000\n"
+"PO-Revision-Date: 2025-05-14 19:01+0000\n"
 "Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/turris/pkglists/cs/"
 ">\n"
@@ -44,19 +44,19 @@ msgid ""
 "Collects data about router usage (installed packages, Internet connection "
 "type and etc.)."
 msgstr ""
-"Sbírá data o užívání routeru (nainstalované balíčky, typ připojení k "
-"internetu a jiné)."
+"Sbírá data o užívání směrovače (nainstalované balíčky, typ připojení k "
+"Internetu a jiné)."
 
 #: definitions.json
 msgid "Dynamic Firewall"
-msgstr "Dynamický Firewall"
+msgstr "Dynamický firewall"
 
 #: definitions.json
 msgid ""
 "Adds firewall rules to block attackers detected by Turris Sentinel network."
 msgstr ""
-"Přidává pravidla pro firewall k blokování útočníků zachycených pomocí sítě "
-"Turris Sentinel."
+"Přidává pravidla pro bránu firewall k blokování útočníků zachycených pomocí "
+"sítě Turris Sentinel."
 
 #: definitions.json
 msgid "Firewall Logs"
@@ -67,7 +67,7 @@ msgid ""
 "Threat detection tool. Collects firewall logs about failed connection "
 "attempts."
 msgstr ""
-"Nástroj pro detekci bezpečnostních hrozeb. Sbírá záznamy firewallu o "
+"Nástroj pro detekci bezpečnostních hrozeb. Sbírá záznamy z brány firewall o "
 "neúspěšných pokusech o připojení."
 
 #: definitions.json
@@ -121,7 +121,7 @@ msgstr "Zesílení zabezpečení"
 
 #: definitions.json
 msgid "Seccomp tools for system hardening."
-msgstr "Nástroje Seccomp pro zesílení bezpečnosti systému."
+msgstr "Nástroje Seccomp pro posílení zabezpečení systému."
 
 #: definitions.json
 msgid "Common passwords filter"
@@ -132,8 +132,8 @@ msgid ""
 "Compare new password you are about to set to access router with list of "
 "common passwords used by robots trapped in Turris honeypots."
 msgstr ""
-"Porovnává nové heslo, které se chystáte nastavit pro přístup k routeru, se "
-"seznamem nejčastějších hesel používaných roboty zachycenými v honeypotech "
+"Porovnává nové heslo, které se chystáte nastavit pro přístup ke směrovači, "
+"se seznamem nejčastějších hesel používaných roboty zachycenými v honeypotech "
 "Turris."
 
 #: definitions.json
@@ -179,7 +179,7 @@ msgstr "SQM"
 
 #: definitions.json
 msgid "Active Queue Management to boost performance on heavily loaded network."
-msgstr "Aktivní správa front pro zvýšený výkon na velmi zatížených sítích."
+msgstr "Aktivní správa front pro zvýšený výkon na velmi vytížených sítích."
 
 #: definitions.json
 msgid "Tinyproxy"
