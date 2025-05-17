@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2022-05-16 10:29\n"
-"PO-Revision-Date: 2025-05-14 19:01+0000\n"
+"PO-Revision-Date: 2025-05-17 20:01+0000\n"
 "Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/turris/pkglists/cs/"
 ">\n"
@@ -154,7 +154,9 @@ msgstr "Bezpečný režim (seccomp)"
 #: definitions.json
 msgid ""
 "Optional support for seccomp allowing processes to isolate from them self"
-msgstr "Volitelná podpora seccomp umožňuje procesům se vzájemně izolovat"
+msgstr ""
+"Volitelná podpora pro seccomp umožňuje procesům nechat si za běhu nevratně "
+"odebírat většinu přístupů do systému"
 
 #: definitions.json
 msgid "LuCI extensions"
@@ -195,7 +197,7 @@ msgstr "UPnP"
 
 #: definitions.json
 msgid "Universal Plug and Play service."
-msgstr "Služba Universal Plug and Play."
+msgstr "Služba pro Univerzální (síťové) „připojte a používejte“ (UPnP)."
 
 #: definitions.json
 msgid "Print server (p910nd)"
@@ -215,7 +217,8 @@ msgstr "Statistiky"
 
 #: definitions.json
 msgid "Gather and render diagrams for system statistics by using collectd."
-msgstr "Sběr a vykreslení diagramů pro systémové statistiky pomocí collectd."
+msgstr ""
+"Sběr údajů a vykreslování diagramů pro systémové statistiky pomocí collectd."
 
 #: definitions.json
 msgid "WireGuard"
@@ -223,7 +226,7 @@ msgstr "WireGuard"
 
 #: definitions.json
 msgid "Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
-msgstr "Alternativa k OpenVPN, poskytuje rychlý, moderní a bezpečný VPN tunel."
+msgstr "Alternativa k OpenVPN – poskytuje rychlý, moderní a bezpečný VPN tunel."
 
 #: definitions.json
 msgid "LXC utilities"
@@ -255,7 +258,7 @@ msgstr "Samba"
 
 #: definitions.json
 msgid "Implementation of SMB network protocol."
-msgstr "Implementace SMB síťového protokolu."
+msgstr "Implementace síťového protokolu SMB."
 
 #: definitions.json
 msgid "DLNA"
@@ -279,7 +282,7 @@ msgstr "mdadm"
 
 #: definitions.json
 msgid "Software RAID storage support using mdadm."
-msgstr "Podpora pro softwarové úložiště RAID pomocí mdadm."
+msgstr "Podpora pro úložiště typu softwarový RAID pomocí mdadm."
 
 #: definitions.json
 msgid "Encrypted Storage"
@@ -287,7 +290,7 @@ msgstr "Šifrované úložiště"
 
 #: definitions.json
 msgid "Add support to access encrypted storage devices using dm-crypt."
-msgstr "Přidává podporu pro přístup na šifrované úložiště pomocí dm-crypt."
+msgstr "Přidává podporu pro přístup na šifrovaná úložiště pomocí dm-crypt."
 
 #: definitions.json
 msgid "Network monitoring and parental control"
