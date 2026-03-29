@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2022-05-16 10:29\n"
-"PO-Revision-Date: 2026-03-15 19:09+0000\n"
+"PO-Revision-Date: 2026-03-30 20:09+0000\n"
 "Last-Translator: Fln <weblate.org@fln.lt>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/turris/"
 "pkglists/lt/>\n"
@@ -361,26 +361,28 @@ msgid ""
 "Self-hosted files hosting and productivity platform that keeps you in "
 "control. Alternative to services such as Dropbox or Google Drive."
 msgstr ""
+"Nuosava failų talpinimo ir produktyvumo platforma, kurią pilnai valdote. "
+"Alternatyva paslaugoms tokioms kaip Dropbox ar Google Drive."
 
 #: definitions.json
 msgid "OpenVPN"
-msgstr ""
+msgstr "OpenVPN"
 
 #: definitions.json
 msgid "Easy setup of the OpenVPN client and server from Foris."
-msgstr ""
+msgstr "Paprastas OpenVPN kliento arba serverio paruošimas per Foris."
 
 #: definitions.json
 msgid "Tor"
-msgstr ""
+msgstr "Tor"
 
 #: definitions.json
 msgid "Service to increase anonymity on the Internet."
-msgstr ""
+msgstr "Paslauga, skirta padidinti anonimiškumą internete."
 
 #: definitions.json
 msgid "Alternative core drivers"
-msgstr ""
+msgstr "Alternatyvios pagrindinės tvarkyklės"
 
 #: definitions.json
 msgid ""
@@ -388,68 +390,81 @@ msgid ""
 "default installation. You can try to enable these if you encounter some "
 "problems with default ones."
 msgstr ""
+"Šis pasirinkimas leidžia naudoti kitas tvarkykles nei tas, kurios diegiamos "
+"įprastai. Išbandykite šias, jeigu kyla problemų su įprastomis."
 
 #: definitions.json
 msgid "Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x"
-msgstr ""
+msgstr "Candela Technologies Wi-Fi tvarkyklės skirtos Qualcomm Atheros QCA988x"
 
 #: definitions.json
 msgid "Alternative driver from Candela Technologies."
-msgstr ""
+msgstr "Alternatyvios tvarkyklės iš Candela Technologies."
 
 #: definitions.json
 msgid ""
 "Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x with "
 "improved stability in busy networks"
 msgstr ""
+"Candela Technologies Wi-Fi tvarkyklės skirtos Qualcomm Atheros QCA988x su "
+"geresniu stabilumu apkrautuose tinkluose"
 
 #: definitions.json
 msgid ""
 "Alternative driver from Candela Technologies. It uses HTT TX data path for "
 "management frames, which improves stability in busy networks."
 msgstr ""
+"Alternatyvios tvarkyklės iš Candela Technologies. Jose valdymo freimų "
+"siuntimui naudojamas HTT TX duomenų kelias, tai padidina stabilumą "
+"apkrautuose tinkluose."
 
 #: labels.json
 msgid "Advanced users"
-msgstr ""
+msgstr "Patyrusiems naudotojams"
 
 #: labels.json
 msgid "This functionality is usable only for advanced users."
-msgstr ""
+msgstr "Funkcionalumas, kuris naudingas tik patyrusiems naudotojams."
 
 #: labels.json
 msgid "Community"
-msgstr ""
+msgstr "Bendruomenės"
 
 #: labels.json
 msgid ""
 "This package list is not officially supported. Turris team has no "
 "responsibility for stability of software that is part of this list."
 msgstr ""
+"Šis paketų sąrašas neturi oficialaus palaikymo. Turris komanda nėra "
+"atsakinga už šio sąrašo programinės įrangos stabilumą."
 
 #: labels.json
 msgid "Experimental"
-msgstr ""
+msgstr "Eksperimentinis"
 
 #: labels.json
 msgid ""
 "Software that is part of this package list is considered experimental. "
 "Problems when using it might be expected."
 msgstr ""
+"Programinė įranga iš šio sąrašo yra eksperimentinė. Ją naudojant gali kilti "
+"nenumatytų problemų."
 
 #: labels.json
 msgid "Deprecated"
-msgstr ""
+msgstr "Nebenaudojama"
 
 #: labels.json
 msgid ""
 "This package list and/or software that provides is planned to be removed. It "
 "is advised to not use it."
 msgstr ""
+"Šis sąrašas ir jo teikiama programinė įranga planuojama pašalinti. "
+"Nerekomenduojamas naudoti."
 
 #: labels.json
 msgid "External storage"
-msgstr ""
+msgstr "Išorinė talpykla"
 
 #: labels.json
 msgid ""
@@ -457,20 +472,25 @@ msgid ""
 "Software it contains can wear out flash storages as it performs increased "
 "amount of writes."
 msgstr ""
+"Jei naudojate programinę įrangą iš šio sąrašo labai rekomenduojama naudoti "
+"išorinę saugyklą. Sąraše esanti programinė įranga gali greitai sudėvėti "
+"flash atmintį, nes atlieka daug rašymo operacijų."
 
 #: labels.json
 msgid "High memory usage"
-msgstr ""
+msgstr "Naudoja daug atminties"
 
 #: labels.json
 msgid ""
 "Software in this package list consumes possibly higher amount of RAM to run. "
 "It is not suggested to use it with small memory."
 msgstr ""
+"Programinė įranga šiame sąraše naudoja didesnį RAM atminties kiekį. "
+"Nerekomenduoja naudoti įrenginiuose turinčiuose mažai atminties."
 
 #: labels.json
 msgid "High storage usage"
-msgstr ""
+msgstr "Naudoja daug vietos talpykloje"
 
 #: labels.json
 msgid ""
@@ -479,10 +499,14 @@ msgid ""
 "internal storage of Turris 1.x and microSD cards with less than 1GB of "
 "storage."
 msgstr ""
+"Programinė įranga iš šio sąrašo naudoja daugiau nei įprastai disko vietos. "
+"Nerekomenduojama naudoti įrenginiuose turinčiuose nedidelį talpyklos "
+"atminties kiekį, pvz. vidinė Turris 1.x talpykla arba mikro SD kortelės "
+"turinčios mažiau nei 1GB vietos."
 
 #: labels.json
 msgid "Network load"
-msgstr ""
+msgstr "Apkrauna tinklą"
 
 #: labels.json
 msgid ""
@@ -490,3 +514,6 @@ msgid ""
 "on faster uplinks but because of that it still can be decremental to some "
 "users."
 msgstr ""
+"Šis funkcionalumas gali sumažinti tinklo našumą. Tai jaučiama tik prie "
+"didesnių duomenų perdavimo greičių, dėl to kai kuriems vartotojams tai gali "
+"trukdyti."
