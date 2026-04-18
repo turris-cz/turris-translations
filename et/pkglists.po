@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2022-05-16 10:29\n"
-"PO-Revision-Date: 2026-04-06 21:09+0000\n"
+"PO-Revision-Date: 2026-04-19 07:09+0000\n"
 "Last-Translator: Priit Jõerüüt <jrthwlate@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/turris/pkglists/"
 "et/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -111,13 +111,15 @@ msgstr ""
 
 #: definitions.json
 msgid "Common passwords filter"
-msgstr ""
+msgstr "Tavaliste salasõnade filter"
 
 #: definitions.json
 msgid ""
 "Compare new password you are about to set to access router with list of "
 "common passwords used by robots trapped in Turris honeypots."
 msgstr ""
+"Võrdle sisestamisel olevat uut salasõna levinud salasõnade loendiga, mida on "
+"kasutanud robotid Turrise meepurkides."
 
 #: definitions.json
 msgid "OpenWrt's process jail"
