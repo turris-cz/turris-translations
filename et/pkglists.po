@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2022-05-16 10:29\n"
-"PO-Revision-Date: 2026-04-19 07:09+0000\n"
+"PO-Revision-Date: 2026-04-22 14:09+0000\n"
 "Last-Translator: Priit Jõerüüt <jrthwlate@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/turris/pkglists/"
 "et/>\n"
@@ -45,7 +45,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Dynamic Firewall"
-msgstr ""
+msgstr "Dünaamiline tulemüür"
 
 #: definitions.json
 msgid ""
