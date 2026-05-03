@@ -4,18 +4,20 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2022-05-16 10:29\n"
-"PO-Revision-Date: 2022-05-16 10:29\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-05-03 10:05+0000\n"
+"Last-Translator: Américo Monteiro <a_monteiro@gmx.com>\n"
+"Language-Team: Portuguese <https://hosted.weblate.org/projects/turris/"
+"pkglists/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
-msgstr ""
+msgstr "Extensões de protocolos de rede para 3G/LTE"
 
 #: definitions.json
 msgid "Support for Turris Omnia and Turris MOX LTE pack."
@@ -43,7 +45,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Dynamic Firewall"
-msgstr ""
+msgstr "Firewall Dinâmica"
 
 #: definitions.json
 msgid ""
@@ -323,7 +325,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Nextcloud"
-msgstr ""
+msgstr "Nextcloud"
 
 #: definitions.json
 msgid ""
@@ -333,7 +335,7 @@ msgstr ""
 
 #: definitions.json
 msgid "OpenVPN"
-msgstr ""
+msgstr "OpenVPN"
 
 #: definitions.json
 msgid "Easy setup of the OpenVPN client and server from Foris."
