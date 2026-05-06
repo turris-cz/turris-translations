@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2022-05-16 10:29\n"
-"PO-Revision-Date: 2026-05-03 10:05+0000\n"
+"PO-Revision-Date: 2026-05-07 00:11+0000\n"
 "Last-Translator: Américo Monteiro <a_monteiro@gmx.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/turris/"
 "pkglists/pt/>\n"
@@ -21,27 +21,31 @@ msgstr "Extensões de protocolos de rede para 3G/LTE"
 
 #: definitions.json
 msgid "Support for Turris Omnia and Turris MOX LTE pack."
-msgstr ""
+msgstr "Suporte para pacote Turris Omnia e Turris MOX LTE."
 
 #: definitions.json
 msgid "Advanced security & analytics - Turris Sentinel"
-msgstr ""
+msgstr "Segurança & Análise avançada - Sentinela do Turris"
 
 #: definitions.json
 msgid ""
 "Software for participation in threat detection program which provides "
 "distributed adaptive firewall and statistics."
 msgstr ""
+"Software para participação em programa de detecção de ameaças que fornece "
+"firewall adaptativa distribuída e estatísticas."
 
 #: definitions.json
 msgid "Usage Survey"
-msgstr ""
+msgstr "Inquérito de Utilização"
 
 #: definitions.json
 msgid ""
 "Collects data about router usage (installed packages, Internet connection "
 "type and etc.)."
 msgstr ""
+"Recolhe dados acerca da utilização do router (pacotes instalados, tipo de "
+"ligação à Internet e etc.)."
 
 #: definitions.json
 msgid "Dynamic Firewall"
@@ -51,248 +55,279 @@ msgstr "Firewall Dinâmica"
 msgid ""
 "Adds firewall rules to block attackers detected by Turris Sentinel network."
 msgstr ""
+"Adiciona regras de firewall para bloquear os atacantes detetados pela rede "
+"Sentinela Turris."
 
 #: definitions.json
 msgid "Firewall Logs"
-msgstr ""
+msgstr "Relatórios da Firewall"
 
 #: definitions.json
 msgid ""
 "Threat detection tool. Collects firewall logs about failed connection "
 "attempts."
 msgstr ""
+"Ferramenta de detecção de ameaça. Recolhe relatórios de firewall sobre "
+"tentativas de ligação falhadas."
 
 #: definitions.json
 msgid "Minipots"
-msgstr ""
+msgstr "Mini potes"
 
 #: definitions.json
 msgid ""
 "Threat detection tool. Minimal honeypots to catch attackers by mimicking "
 "various protocols."
 msgstr ""
+"Ferramenta de detecção de ameaça. Potes de mel mínimos para apanhar "
+"atacantes ao imitarem vários protocolos."
 
 #: definitions.json
 msgid "SSH Honeypot"
-msgstr ""
+msgstr "Pote de Mel SSH"
 
 #: definitions.json
 msgid ""
 "Threat detection tool. SSH honeypot using Honeypot as a Service "
 "(haas.nic.cz)."
 msgstr ""
+"Ferramenta de detecção de ameaça. Pote de mel SSH que usa Honeypot como um "
+"Serviço (haas.nic.cz)."
 
 #: definitions.json
 msgid "RIPE Atlas SW Probe"
-msgstr ""
+msgstr "Prova RIPE Atlas SW"
 
 #: definitions.json
 msgid ""
 "Global platform, which measures Internet connectivity and reachability."
 msgstr ""
+"Plataforma global, que mede a conectividade e acessibilidade da Internet."
 
 #: definitions.json
 msgid "DVB tuner"
-msgstr ""
+msgstr "Sintonizador DVB"
 
 #: definitions.json
 msgid ""
 "Software for sharing television received by a DVB tuner on Turris. Does not "
 "include device drivers."
 msgstr ""
+"Software para partilhar televisão recebida por um sintonizador DVB em "
+"Turris. Não inclui as drivers de dispositivo."
 
 #: definitions.json
 msgid "Hardening"
-msgstr ""
+msgstr "Endurecimento"
 
 #: definitions.json
 msgid "Seccomp tools for system hardening."
-msgstr ""
+msgstr "Ferramentas Seccomp para endurecimento do sistema."
 
 #: definitions.json
 msgid "Common passwords filter"
-msgstr ""
+msgstr "Filtro de palavras passe comuns"
 
 #: definitions.json
 msgid ""
 "Compare new password you are about to set to access router with list of "
 "common passwords used by robots trapped in Turris honeypots."
 msgstr ""
+"Compara a nova palavra passe que está prestes a definir para acesso ao "
+"router com uma lista de palavras passe comuns usadas por robots apanhados "
+"nos potes de mel do Turris."
 
 #: definitions.json
 msgid "OpenWrt's process jail"
-msgstr ""
+msgstr "Prisão de processos do OpenWrt"
 
 #: definitions.json
 msgid ""
 "ujail allows to limit processes by limiting syscalls and file-system access"
 msgstr ""
+"ujail permite limitar processos ao limitar chamadas de sistema e acesso ao "
+"sistema de ficheiros"
 
 #: definitions.json
 msgid "Secure Computing Mode (seccomp)"
-msgstr ""
+msgstr "Modo de Computação Seguro (seccomp)"
 
 #: definitions.json
 msgid ""
 "Optional support for seccomp allowing processes to isolate from them self"
 msgstr ""
+"Suporte opcional para seccomp que permite aos processos isolarem-se de si "
+"próprios"
 
 #: definitions.json
 msgid "LuCI extensions"
-msgstr ""
+msgstr "Extensões LuCI"
 
 #: definitions.json
 msgid "Several additional tabs and controls for the advanced LuCI interface."
 msgstr ""
+"Vários separadores e controles adicionais para a interface LuCI avançada."
 
 #: definitions.json
 msgid "AdBlock"
-msgstr ""
+msgstr "AdBlock"
 
 #: definitions.json
 msgid "Script to block ad/abuse domains."
-msgstr ""
+msgstr "Script para bloquear domínios de publicidade/abusos."
 
 #: definitions.json
 msgid "SQM"
-msgstr ""
+msgstr "SQM"
 
 #: definitions.json
 msgid ""
 "Active Queue Management to boost performance on heavily loaded network."
 msgstr ""
+"Gestão de Filas Ativa para amplificar a performance em rede de alta carga."
 
 #: definitions.json
 msgid "Tinyproxy"
-msgstr ""
+msgstr "Tinyproxy"
 
 #: definitions.json
 msgid "HTTP(S) proxy."
-msgstr ""
+msgstr "Proxy HTTP(S)."
 
 #: definitions.json
 msgid "UPnP"
-msgstr ""
+msgstr "UPnP"
 
 #: definitions.json
 msgid "Universal Plug and Play service."
-msgstr ""
+msgstr "Serviço Universal Plug e Play."
 
 #: definitions.json
 msgid "Print server (p910nd)"
-msgstr ""
+msgstr "Servidor de Impressão (p910nd)"
 
 #: definitions.json
 msgid ""
 "Services allowing to connect a printer to the router and use it for remote "
 "printing."
 msgstr ""
+"Serviços que permitem ligar uma impressora ao router e usa-la para impressão "
+"remota."
 
 #: definitions.json
 msgid "Statistics"
-msgstr ""
+msgstr "Estatísticas"
 
 #: definitions.json
 msgid "Gather and render diagrams for system statistics by using collectd."
 msgstr ""
+"Recolhe e desenha diagramas para estatísticas de sistema ao usar o collectd."
 
 #: definitions.json
 msgid "WireGuard"
-msgstr ""
+msgstr "WireGuard"
 
 #: definitions.json
 msgid ""
 "Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
-msgstr ""
+msgstr "Alternativa ao OpenVPN, fornece um túnel VPN rápido, moderno e seguro."
 
 #: definitions.json
 msgid "LXC utilities"
-msgstr ""
+msgstr "Utilitários LXC"
 
 #: definitions.json
 msgid ""
 "Set of utilities to manage Linux Containers (lightweight virtualization "
 "technology)."
 msgstr ""
+"Conjunto de utilitários para gerir Contentores Linux (tecnologia de "
+"virtualização leve)."
 
 #: definitions.json
 msgid "NAS"
-msgstr ""
+msgstr "NAS"
 
 #: definitions.json
 msgid ""
 "Services allowing to connect a disk to the router and use it as network data"
 " store."
 msgstr ""
+"Serviços que permitem ligar um disco ao router e usa-lo como um armazém de "
+"dados de rede."
 
 #: definitions.json
 msgid "Samba"
-msgstr ""
+msgstr "Samba"
 
 #: definitions.json
 msgid "Implementation of SMB network protocol."
-msgstr ""
+msgstr "Implementação do protocolo de rede SMB."
 
 #: definitions.json
 msgid "DLNA"
-msgstr ""
+msgstr "DLNA"
 
 #: definitions.json
 msgid "Digital media sharing server."
-msgstr ""
+msgstr "Servidor de partilha de média digital."
 
 #: definitions.json
 msgid "Transmission"
-msgstr ""
+msgstr "Transmissão"
 
 #: definitions.json
 msgid "BitTorrent client."
-msgstr ""
+msgstr "Cliente do BitTorrent."
 
 #: definitions.json
 msgid "mdadm"
-msgstr ""
+msgstr "mdadm"
 
 #: definitions.json
 msgid "Software RAID storage support using mdadm."
-msgstr ""
+msgstr "Software de suporte de armazenamento RAID que usa mdadm."
 
 #: definitions.json
 msgid "Encrypted Storage"
-msgstr ""
+msgstr "Armazenamento Encriptado"
 
 #: definitions.json
 msgid "Add support to access encrypted storage devices using dm-crypt."
 msgstr ""
+"Adiciona suporte para acesso a dispositivos de armazenamento encriptado "
+"usando dm-crypt."
 
 #: definitions.json
 msgid "Network monitoring and parental control"
-msgstr ""
+msgstr "Monitorização de rede e controlo parental"
 
 #: definitions.json
 msgid "Tools to monitor local network and users on it."
-msgstr ""
+msgstr "Ferramentas para monitorizar a rede local e os utilizadores nela."
 
 #: definitions.json
 msgid "Internet connection speed measurement"
-msgstr ""
+msgstr "Medição de velocidade da ligação de Internet"
 
 #: definitions.json
 msgid ""
 "Actively measures speed of Internet connection using netmetr.cz service."
 msgstr ""
+"Mede ativamente a velocidade da ligação de Internet usando o serviço "
+"netmetr.cz."
 
 #: definitions.json
 msgid "New devices detection"
-msgstr ""
+msgstr "Detecção de novos dispositivos"
 
 #: definitions.json
 msgid "Software for detecting new devices on local network."
-msgstr ""
+msgstr "Software para detectar novos dispositivos na rede local."
 
 #: definitions.json
 msgid "Pakon"
-msgstr ""
+msgstr "Pakon"
 
 #: definitions.json
 msgid "Software for in depth monitoring of your traffic using Suricata."
@@ -300,7 +335,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Morce"
-msgstr ""
+msgstr "Morce"
 
 #: definitions.json
 msgid "Simple integration of Intrusion Detection System."
@@ -343,7 +378,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Tor"
-msgstr ""
+msgstr "Tor"
 
 #: definitions.json
 msgid "Service to increase anonymity on the Internet."
@@ -351,7 +386,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Alternative core drivers"
-msgstr ""
+msgstr "Drivers de núcleo alternativas"
 
 #: definitions.json
 msgid ""
@@ -366,7 +401,7 @@ msgstr ""
 
 #: definitions.json
 msgid "Alternative driver from Candela Technologies."
-msgstr ""
+msgstr "Driver alternativa de Candela Technologies."
 
 #: definitions.json
 msgid ""
@@ -382,7 +417,7 @@ msgstr ""
 
 #: labels.json
 msgid "Advanced users"
-msgstr ""
+msgstr "Utilizadores avançados"
 
 #: labels.json
 msgid "This functionality is usable only for advanced users."
@@ -390,7 +425,7 @@ msgstr ""
 
 #: labels.json
 msgid "Community"
-msgstr ""
+msgstr "Comunidade"
 
 #: labels.json
 msgid ""
@@ -400,7 +435,7 @@ msgstr ""
 
 #: labels.json
 msgid "Experimental"
-msgstr ""
+msgstr "Experimental"
 
 #: labels.json
 msgid ""
@@ -410,7 +445,7 @@ msgstr ""
 
 #: labels.json
 msgid "Deprecated"
-msgstr ""
+msgstr "Descontinuado"
 
 #: labels.json
 msgid ""
@@ -420,7 +455,7 @@ msgstr ""
 
 #: labels.json
 msgid "External storage"
-msgstr ""
+msgstr "Armazenamento externo"
 
 #: labels.json
 msgid ""
@@ -431,7 +466,7 @@ msgstr ""
 
 #: labels.json
 msgid "High memory usage"
-msgstr ""
+msgstr "Alta utilização de memória"
 
 #: labels.json
 msgid ""
@@ -441,7 +476,7 @@ msgstr ""
 
 #: labels.json
 msgid "High storage usage"
-msgstr ""
+msgstr "Alta utilização de armazenamento"
 
 #: labels.json
 msgid ""
@@ -453,7 +488,7 @@ msgstr ""
 
 #: labels.json
 msgid "Network load"
-msgstr ""
+msgstr "Carga de rede"
 
 #: labels.json
 msgid ""
