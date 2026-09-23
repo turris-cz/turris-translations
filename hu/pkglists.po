@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2022-05-16 10:29\n"
-"PO-Revision-Date: 2026-09-22 20:51+0000\n"
+"PO-Revision-Date: 2026-09-24 15:51+0000\n"
 "Last-Translator: Kövecses József <kovecses@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/turris/"
 "pkglists/hu/>\n"
@@ -341,7 +341,7 @@ msgstr "Morce"
 
 #: definitions.json
 msgid "Simple integration of Intrusion Detection System."
-msgstr ""
+msgstr "A behatolásérzékelő rendszer egyszerű integrációja."
 
 #: definitions.json
 msgid "Turris MOX network boot"
