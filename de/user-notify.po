@@ -25,7 +25,7 @@ msgstr ""
 "ein neues Laufwerk."
 
 #: format_and_set_srv.sh:38
-msgid "Formatting drive failed, try unpluging it and repluging it in again."
+msgid "Formatting drive failed, try unplugging it and replugging it in again."
 msgstr ""
 "Formatierung des Laufwerks fehlgeschlagen, versuchen Sie bitte das Laufwerk "
 "abzuziehen und neu zu verbinden."

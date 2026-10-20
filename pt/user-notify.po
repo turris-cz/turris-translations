@@ -25,7 +25,7 @@ msgstr ""
 "drive."
 
 #: format_and_set_srv.sh:38
-msgid "Formatting drive failed, try unpluging it and repluging it in again."
+msgid "Formatting drive failed, try unplugging it and replugging it in again."
 msgstr "O formatar a drive falhou, tente desligá-la e re-ligá-la de novo."
 
 #: format_and_set_srv.sh:41

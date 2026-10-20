@@ -25,7 +25,7 @@ msgstr ""
 "disque dur."
 
 #: format_and_set_srv.sh:38
-msgid "Formatting drive failed, try unpluging it and repluging it in again."
+msgid "Formatting drive failed, try unplugging it and replugging it in again."
 msgstr ""
 "Échec du formatage du lecteur, essayez de le débrancher et de le rebrancher "
 "à nouveau."

@@ -24,7 +24,7 @@ msgid "Another formatting job currently in progress, not switching to new drive.
 msgstr "En annen formateringsjobb er underveis, bytter ikke til ny stasjon."
 
 #: format_and_set_srv.sh:38
-msgid "Formatting drive failed, try unpluging it and repluging it in again."
+msgid "Formatting drive failed, try unplugging it and replugging it in again."
 msgstr "Formatering av stasjon mislyktes, prøv å plugge den ut og inn igjen."
 
 #: format_and_set_srv.sh:41

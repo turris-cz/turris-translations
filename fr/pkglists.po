@@ -362,7 +362,7 @@ msgid "Netdata"
 msgstr "Netdata"
 
 #: definitions.json
-msgid "Real-time perfomance and health monitoring options."
+msgid "Real-time performance and health monitoring options."
 msgstr "Options de surveillance de la performance et de la santé en temps réel."
 
 #: definitions.json

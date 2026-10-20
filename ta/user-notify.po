@@ -24,7 +24,7 @@ msgstr ""
 "மற்றொரு வடிவமைப்பு வேலை தற்போது முன்னேற்றத்தில் உள்ளது, புதிய இயக்ககத்திற்கு மாறவில்லை."
 
 #: format_and_set_srv.sh:38
-msgid "Formatting drive failed, try unpluging it and repluging it in again."
+msgid "Formatting drive failed, try unplugging it and replugging it in again."
 msgstr ""
 "வடிவமைத்தல் இயக்கி தோல்வியடைந்தது, அதை அவிழ்த்து மீண்டும் செருக முயற்சிக்கவும்."
 

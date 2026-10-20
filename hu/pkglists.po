@@ -359,7 +359,7 @@ msgid "Netdata"
 msgstr "Netdata"
 
 #: definitions.json
-msgid "Real-time perfomance and health monitoring options."
+msgid "Real-time performance and health monitoring options."
 msgstr "Valós idejű teljesítmény- és állapotfigyelési lehetőségek."
 
 #: definitions.json

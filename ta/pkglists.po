@@ -354,7 +354,7 @@ msgid "Netdata"
 msgstr "நிகர தரவு"
 
 #: definitions.json
-msgid "Real-time perfomance and health monitoring options."
+msgid "Real-time performance and health monitoring options."
 msgstr "நிகழ்நேர செயல்திறன் மற்றும் சுகாதார கண்காணிப்பு விருப்பங்கள்."
 
 #: definitions.json

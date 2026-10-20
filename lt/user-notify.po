@@ -25,7 +25,7 @@ msgstr ""
 "Šiuo metu atliekamas kitas formatavimo darbas, nepradedamas naujas diskas."
 
 #: format_and_set_srv.sh:38
-msgid "Formatting drive failed, try unpluging it and repluging it in again."
+msgid "Formatting drive failed, try unplugging it and replugging it in again."
 msgstr ""
 "Disko formatavimas nepavyko, pamėginkite jį atjungti ir per naują prijungti."
 

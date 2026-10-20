@@ -349,7 +349,7 @@ msgid "Netdata"
 msgstr "Netdata"
 
 #: definitions.json
-msgid "Real-time perfomance and health monitoring options."
+msgid "Real-time performance and health monitoring options."
 msgstr "Našumo ir tinkamo veikimo stebėjimo realiu laiku nustatymai."
 
 #: definitions.json

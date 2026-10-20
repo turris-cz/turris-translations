@@ -358,7 +358,7 @@ msgid "Netdata"
 msgstr "Netzdaten"
 
 #: definitions.json
-msgid "Real-time perfomance and health monitoring options."
+msgid "Real-time performance and health monitoring options."
 msgstr "Optionen für Echtzeitüberwachung von Leistung und Systemzustand."
 
 #: definitions.json

@@ -25,7 +25,7 @@ msgstr ""
 "váltani."
 
 #: format_and_set_srv.sh:38
-msgid "Formatting drive failed, try unpluging it and repluging it in again."
+msgid "Formatting drive failed, try unplugging it and replugging it in again."
 msgstr ""
 "A meghajtó formázása sikertelen, próbálja meg leválasztani és "
 "újracsatlakoztatni."

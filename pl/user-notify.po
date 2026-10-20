@@ -24,7 +24,7 @@ msgid "Another formatting job currently in progress, not switching to new drive.
 msgstr "Inne zadanie formatowania jest w toku, nie przełączę się na nowy dysk."
 
 #: format_and_set_srv.sh:38
-msgid "Formatting drive failed, try unpluging it and repluging it in again."
+msgid "Formatting drive failed, try unplugging it and replugging it in again."
 msgstr ""
 "Formatowanie dysku nie powiodło się, spróbuj odłączyć go i podłączyć "
 "ponownie."

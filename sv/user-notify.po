@@ -24,7 +24,7 @@ msgstr ""
 "Ett annat formateringsjobb pågår för tillfället, byter inte till ny enhet."
 
 #: format_and_set_srv.sh:38
-msgid "Formatting drive failed, try unpluging it and repluging it in again."
+msgid "Formatting drive failed, try unplugging it and replugging it in again."
 msgstr ""
 "Formateringen av enheten misslyckades, prova koppla ur den och koppla in den "
 "igen."
