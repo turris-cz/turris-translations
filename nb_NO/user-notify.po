@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: user-notify\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-02-20 20:57+0100\n"
-"PO-Revision-Date: 2018-05-25 08:41+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"PO-Revision-Date: 2026-09-04 14:02+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/turris/"
-"turris-user-notify/nb/>\n"
-"Language: nb\n"
+"user-notify/nb_NO/>\n"
+"Language: nb_NO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.0-dev\n"
+"X-Generator: Weblate 2026.9\n"
 
 #: format_and_set_srv.sh:21
 #, fuzzy
@@ -24,7 +24,7 @@ msgid "Another formatting job currently in progress, not switching to new drive.
 msgstr "En annen formateringsjobb er underveis, bytter ikke til ny stasjon."
 
 #: format_and_set_srv.sh:38
-msgid "Formatting drive failed, try unpluging it and repluging it in again."
+msgid "Formatting drive failed, try unplugging it and replugging it in again."
 msgstr "Formatering av stasjon mislyktes, prøv å plugge den ut og inn igjen."
 
 #: format_and_set_srv.sh:41

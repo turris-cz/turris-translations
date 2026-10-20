@@ -1,0 +1,522 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pkglists\n"
+"Report-Msgid-Bugs-To: packaging@turris.cz\n"
+"POT-Creation-Date: 2022-05-16 10:29\n"
+"PO-Revision-Date: 2026-09-04 14:02+0000\n"
+"Last-Translator: தமிழ்நேரம் <tamilneram247@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/turris/pkglists/"
+"ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.9\n"
+
+#: definitions.json
+msgid "Extensions of network protocols for 3G/LTE"
+msgstr "3G/LTE க்கான பிணைய நெறிமுறைகளின் நீட்டிப்புகள்"
+
+#: definitions.json
+msgid "Support for Turris Omnia and Turris MOX LTE pack."
+msgstr "கோபுரம் மற்றும் கோபுரத்திற்கான உதவி விரைவில் LTE பேக்."
+
+#: definitions.json
+msgid "Advanced security & analytics - Turris Sentinel"
+msgstr "மேம்பட்ட பாதுகாப்பு மற்றும் பகுப்பாய்வு - டூரிச் சென்டினல்"
+
+#: definitions.json
+msgid ""
+"Software for participation in threat detection program which provides "
+"distributed adaptive firewall and statistics."
+msgstr ""
+"விநியோகிக்கப்பட்ட தகவமைப்பு ஃபயர்வால் மற்றும் புள்ளிவிவரங்களை வழங்கும் அச்சுறுத்தல் கண்டறிதல் "
+"திட்டத்தில் பங்கேற்பதற்கான மென்பொருள்."
+
+#: definitions.json
+msgid "Usage Survey"
+msgstr "பயன்பாட்டு ஆய்வு"
+
+#: definitions.json
+msgid ""
+"Collects data about router usage (installed packages, Internet connection "
+"type and etc.)."
+msgstr ""
+"திசைவி பயன்பாடு பற்றிய தரவை சேகரிக்கிறது (நிறுவப்பட்ட தொகுப்புகள், இணைய இணைப்பு வகை "
+"மற்றும் பல)."
+
+#: definitions.json
+msgid "Dynamic Firewall"
+msgstr "மாறும் ஃபயர்வால்"
+
+#: definitions.json
+msgid ""
+"Adds firewall rules to block attackers detected by Turris Sentinel network."
+msgstr ""
+"டர்ரிச் சென்டினல் நெட்வொர்க்கால் கண்டறியப்பட்ட தாக்குபவர்களைத் தடுக்க ஃபயர்வால் விதிகளைச் "
+"சேர்க்கிறது."
+
+#: definitions.json
+msgid "Firewall Logs"
+msgstr "ஃபயர்வால் பதிவுகள்"
+
+#: definitions.json
+msgid ""
+"Threat detection tool. Collects firewall logs about failed connection "
+"attempts."
+msgstr ""
+"அச்சுறுத்தல் கண்டறிதல் கருவி. தோல்வியுற்ற இணைப்பு முயற்சிகள் குறித்து ஃபயர்வால் பதிவுகளை "
+"சேகரிக்கிறது."
+
+#: definitions.json
+msgid "Minipots"
+msgstr "மினிபோட்டுகள்"
+
+#: definitions.json
+msgid ""
+"Threat detection tool. Minimal honeypots to catch attackers by mimicking "
+"various protocols."
+msgstr ""
+"அச்சுறுத்தல் கண்டறிதல் கருவி. பல்வேறு நெறிமுறைகளைப் பிரதிபலிப்பதன் மூலம் தாக்குபவர்களைப் "
+"பிடிக்க குறைந்தபட்ச அனிபாட்கள்."
+
+#: definitions.json
+msgid "SSH Honeypot"
+msgstr "பாஓடு HONEYPOT"
+
+#: definitions.json
+msgid ""
+"Threat detection tool. SSH honeypot using Honeypot as a Service "
+"(haas.nic.cz)."
+msgstr ""
+"அச்சுறுத்தல் கண்டறிதல் கருவி. அனிபோட்டை ஒரு சேவையாக (Haas.nic.cz) பயன்படுத்தும் பாஓடு "
+"HONEYPOT."
+
+#: definitions.json
+msgid "RIPE Atlas SW Probe"
+msgstr "பழுத்த அட்லச் எச்.டபிள்யூ ஆய்வு"
+
+#: definitions.json
+msgid ""
+"Global platform, which measures Internet connectivity and reachability."
+msgstr "உலகளாவிய இயங்குதளம், இது இணைய இணைப்பு மற்றும் அணுகலை அளவிடுகிறது."
+
+#: definitions.json
+msgid "DVB tuner"
+msgstr "டி.வி.பி ட்யூனர்"
+
+#: definitions.json
+msgid ""
+"Software for sharing television received by a DVB tuner on Turris. Does not "
+"include device drivers."
+msgstr ""
+"டர்ரிசில் ஒரு டி.வி.பி ட்யூனரால் பெறப்பட்ட தொலைக்காட்சியைப் பகிர்வதற்கான மென்பொருள். சாதன "
+"இயக்கிகள் சேர்க்கப்படவில்லை."
+
+#: definitions.json
+msgid "Hardening"
+msgstr "கடினப்படுத்துதல்"
+
+#: definitions.json
+msgid "Seccomp tools for system hardening."
+msgstr "கணினி கடினப்படுத்துதலுக்கான செக்காம்ப் கருவிகள்."
+
+#: definitions.json
+msgid "Common passwords filter"
+msgstr "பொதுவான கடவுச்சொற்கள் வடிகட்டி"
+
+#: definitions.json
+msgid ""
+"Compare new password you are about to set to access router with list of "
+"common passwords used by robots trapped in Turris honeypots."
+msgstr ""
+"புதிய கடவுச்சொல்லை ஒப்பிட்டுப் பாருங்கள், டர்ரிச் அனிபாட்களில் சிக்கியுள்ள ரோபோக்களால் "
+"பயன்படுத்தப்படும் பொதுவான கடவுச்சொற்களின் பட்டியலுடன் திசைவியை அணுக நீங்கள் அமைக்க உள்ளீர்கள்."
+
+#: definitions.json
+msgid "OpenWrt's process jail"
+msgstr "OpenWRT இன் செயல்முறை சிறை"
+
+#: definitions.json
+msgid ""
+"ujail allows to limit processes by limiting syscalls and file-system access"
+msgstr ""
+"சிச்கால்கள் மற்றும் கோப்பு முறை அணுகலைக் கட்டுப்படுத்துவதன் மூலம் செயல்முறைகளை கட்டுப்படுத்த "
+"உசெயில் அனுமதிக்கிறது"
+
+#: definitions.json
+msgid "Secure Computing Mode (seccomp)"
+msgstr "பாதுகாப்பான கம்ப்யூட்டிங் பயன்முறை (Seccomp)"
+
+#: definitions.json
+msgid ""
+"Optional support for seccomp allowing processes to isolate from them self"
+msgstr ""
+"SecComp க்கான விருப்ப உதவி செயல்முறைகள் அவர்களிடமிருந்து தனிமைப்படுத்த அனுமதிக்கிறது"
+
+#: definitions.json
+msgid "LuCI extensions"
+msgstr "லூசி நீட்டிப்புகள்"
+
+#: definitions.json
+msgid "Several additional tabs and controls for the advanced LuCI interface."
+msgstr ""
+"மேம்பட்ட லூசி இடைமுகத்திற்கான பல கூடுதல் தாவல்கள் மற்றும் கட்டுப்பாடுகள்."
+
+#: definitions.json
+msgid "AdBlock"
+msgstr "Adblock"
+
+#: definitions.json
+msgid "Script to block ad/abuse domains."
+msgstr "விளம்பரம்/துச்பிரயோக களங்களைத் தடுக்க ச்கிரிப்ட்."
+
+#: definitions.json
+msgid "SQM"
+msgstr "சதுர மீட்டர்"
+
+#: definitions.json
+msgid ""
+"Active Queue Management to boost performance on heavily loaded network."
+msgstr ""
+"பெரிதும் ஏற்றப்பட்ட நெட்வொர்க்கில் செயல்திறனை அதிகரிக்க செயலில் வரிசை மேலாண்மை."
+
+#: definitions.json
+msgid "Tinyproxy"
+msgstr "டைனி பாக்சி"
+
+#: definitions.json
+msgid "HTTP(S) proxy."
+msgstr "Http (கள்) பதிலாள்."
+
+#: definitions.json
+msgid "UPnP"
+msgstr "யுபிஎன்பி"
+
+#: definitions.json
+msgid "Universal Plug and Play service."
+msgstr "யுனிவர்சல் பிளக் மற்றும் பிளே சர்வீச்."
+
+#: definitions.json
+msgid "Print server (p910nd)"
+msgstr "அச்சு சேவையகம் (P910ND)"
+
+#: definitions.json
+msgid ""
+"Services allowing to connect a printer to the router and use it for remote "
+"printing."
+msgstr ""
+"ஒரு அச்சுப்பொறியை திசைவியுடன் இணைக்க அனுமதிக்கும் சேவைகள் மற்றும் தொலைநிலை அச்சிடலுக்கு "
+"அதைப் பயன்படுத்தவும்."
+
+#: definitions.json
+msgid "Statistics"
+msgstr "புள்ளிவிவரங்கள்"
+
+#: definitions.json
+msgid "Gather and render diagrams for system statistics by using collectd."
+msgstr ""
+"CollectD ஐப் பயன்படுத்தி கணினி புள்ளிவிவரங்களுக்கான வரைபடங்களை சேகரித்து வழங்கவும்."
+
+#: definitions.json
+msgid "WireGuard"
+msgstr "வயர் கார்ட்"
+
+#: definitions.json
+msgid ""
+"Alternative to OpenVPN, it provides fast, modern and secure VPN tunnel."
+msgstr ""
+"OpenVPN க்கு மாற்றாக, இது வேகமான, நவீன மற்றும் பாதுகாப்பான VPN சுரங்கப்பாதையை வழங்குகிறது."
+
+#: definitions.json
+msgid "LXC utilities"
+msgstr "எல்.எக்ச்.சி பயன்பாடுகள்"
+
+#: definitions.json
+msgid ""
+"Set of utilities to manage Linux Containers (lightweight virtualization "
+"technology)."
+msgstr ""
+"லினக்ச் கொள்கலன்களை நிர்வகிப்பதற்கான பயன்பாடுகளின் தொகுப்பு (இலகுரக மெய்நிகராக்க தொழில்நுட்பம்)"
+"."
+
+#: definitions.json
+msgid "NAS"
+msgstr "நாச்"
+
+#: definitions.json
+msgid ""
+"Services allowing to connect a disk to the router and use it as network data"
+" store."
+msgstr ""
+"ஒரு வட்டை திசைவியுடன் இணைக்க அனுமதிக்கும் சேவைகள் மற்றும் பிணையம் தரவுக் கடையாகப் "
+"பயன்படுத்தவும்."
+
+#: definitions.json
+msgid "Samba"
+msgstr "சாம்பா"
+
+#: definitions.json
+msgid "Implementation of SMB network protocol."
+msgstr "SMB பிணையம் நெறிமுறையை செயல்படுத்துதல்."
+
+#: definitions.json
+msgid "DLNA"
+msgstr "டி.எல்.என்.ஏ"
+
+#: definitions.json
+msgid "Digital media sharing server."
+msgstr "டிசிட்டல் மீடியா பகிர்வு சேவையகம்."
+
+#: definitions.json
+msgid "Transmission"
+msgstr "பரவும் முறை"
+
+#: definitions.json
+msgid "BitTorrent client."
+msgstr "பிட்டோரண்ட் வாங்கி."
+
+#: definitions.json
+msgid "mdadm"
+msgstr "எம்டிஎடிஎம்"
+
+#: definitions.json
+msgid "Software RAID storage support using mdadm."
+msgstr "MDADM ஐப் பயன்படுத்தி மென்பொருள் RAID சேமிப்பக உதவி."
+
+#: definitions.json
+msgid "Encrypted Storage"
+msgstr "மறைகுறியாக்கப்பட்ட சேமிப்பு"
+
+#: definitions.json
+msgid "Add support to access encrypted storage devices using dm-crypt."
+msgstr ""
+"டி.எம்-கிரிப்டைப் பயன்படுத்தி மறைகுறியாக்கப்பட்ட சேமிப்பக சாதனங்களை அணுக ஆதரவைச் சேர்க்கவும்."
+
+#: definitions.json
+msgid "Network monitoring and parental control"
+msgstr "பிணையம் கண்காணிப்பு மற்றும் பெற்றோர் கட்டுப்பாடு"
+
+#: definitions.json
+msgid "Tools to monitor local network and users on it."
+msgstr "உள்ளக பிணையம் மற்றும் பயனர்களை கண்காணிப்பதற்கான கருவிகள்."
+
+#: definitions.json
+msgid "Internet connection speed measurement"
+msgstr "இணைய இணைப்பு வேக அளவீட்டு"
+
+#: definitions.json
+msgid ""
+"Actively measures speed of Internet connection using netmetr.cz service."
+msgstr ""
+"Netmetr.cz சேவையைப் பயன்படுத்தி இணைய இணைப்பின் வேகத்தை செயலில் அளவிடுகிறது."
+
+#: definitions.json
+msgid "New devices detection"
+msgstr "புதிய சாதனங்கள் கண்டறிதல்"
+
+#: definitions.json
+msgid "Software for detecting new devices on local network."
+msgstr "உள்ளக நெட்வொர்க்கில் புதிய சாதனங்களைக் கண்டறிவதற்கான மென்பொருள்."
+
+#: definitions.json
+msgid "Pakon"
+msgstr "முணுமுணுப்பு"
+
+#: definitions.json
+msgid "Software for in depth monitoring of your traffic using Suricata."
+msgstr ""
+"சூரிகாட்டாவைப் பயன்படுத்தி உங்கள் போக்குவரத்தை ஆழமாகக் கண்காணிப்பதற்கான மென்பொருள்."
+
+#: definitions.json
+msgid "Morce"
+msgstr "மோர்ச்"
+
+#: definitions.json
+msgid "Simple integration of Intrusion Detection System."
+msgstr "ஊடுருவல் கண்டறிதல் அமைப்பின் எளிய ஒருங்கிணைப்பு."
+
+#: definitions.json
+msgid "Turris MOX network boot"
+msgstr "டர்ரிச் மோக்ச் பிணையம் துவக்க"
+
+#: definitions.json
+msgid ""
+"Server-side for Turris MOX without microSD card used as Wi-Fi access point."
+msgstr ""
+"மைக்ரோ எச்டி அட்டை இல்லாமல் டர்ரிச் மோக்சிற்கான சேவையக பக்கமானது வைஃபை அணுகல் புள்ளியாகப் "
+"பயன்படுத்தப்படுகிறது."
+
+#: definitions.json
+msgid "Netdata"
+msgstr "நிகர தரவு"
+
+#: definitions.json
+msgid "Real-time performance and health monitoring options."
+msgstr "நிகழ்நேர செயல்திறன் மற்றும் சுகாதார கண்காணிப்பு விருப்பங்கள்."
+
+#: definitions.json
+msgid "Nextcloud"
+msgstr "அடுத்த முகில்"
+
+#: definitions.json
+msgid ""
+"Self-hosted files hosting and productivity platform that keeps you in "
+"control. Alternative to services such as Dropbox or Google Drive."
+msgstr ""
+"உங்களை கட்டுப்பாட்டில் வைத்திருக்கும் சுய-ஓச்ட் கோப்புகள் ஓச்டிங் மற்றும் உற்பத்தித்திறன் தளம். "
+"டிராப்பாக்ச் அல்லது கூகிள் இயக்கி போன்ற சேவைகளுக்கு மாற்று."
+
+#: definitions.json
+msgid "OpenVPN"
+msgstr "OpenVpn"
+
+#: definitions.json
+msgid "Easy setup of the OpenVPN client and server from Foris."
+msgstr "ஃபோரிசிலிருந்து OpenVPN கிளையன்ட் மற்றும் சேவையகத்தை எளிதாக அமைத்தல்."
+
+#: definitions.json
+msgid "Tor"
+msgstr "டோர்"
+
+#: definitions.json
+msgid "Service to increase anonymity on the Internet."
+msgstr "இணையத்தில் பெயர் தெரியாததை அதிகரிக்க பணி."
+
+#: definitions.json
+msgid "Alternative core drivers"
+msgstr "மாற்று மைய இயக்கிகள்"
+
+#: definitions.json
+msgid ""
+"These options allow you to use alternative drivers over those available in "
+"default installation. You can try to enable these if you encounter some "
+"problems with default ones."
+msgstr ""
+"இந்த விருப்பங்கள் இயல்புநிலை நிறுவலில் கிடைக்கக்கூடியவற்றை விட மாற்று இயக்கிகளைப் "
+"பயன்படுத்த உங்களை அனுமதிக்கின்றன. இயல்புநிலைகளில் சில சிக்கல்களை எதிர்கொண்டால் இவற்றை இயக்க "
+"முயற்சி செய்யலாம்."
+
+#: definitions.json
+msgid "Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x"
+msgstr "குவால்காம் அத்ரோச் QCA988X க்கான கேண்டெலா டெக்னாலசிச் வைஃபை இயக்கிகள்"
+
+#: definitions.json
+msgid "Alternative driver from Candela Technologies."
+msgstr "கேண்டெலா டெக்னாலசிசிலிருந்து மாற்று ஓட்டுநர்."
+
+#: definitions.json
+msgid ""
+"Candela Technologies Wi-Fi drivers for Qualcomm Atheros QCA988x with "
+"improved stability in busy networks"
+msgstr ""
+"குவால்காம் அத்தெரோச் QCA988X க்கான கேண்டெலா டெக்னாலசிச் வைஃபை இயக்கிகள் பிசியான "
+"நெட்வொர்க்குகளில் மேம்பட்ட நிலைத்தன்மையுடன்"
+
+#: definitions.json
+msgid ""
+"Alternative driver from Candela Technologies. It uses HTT TX data path for "
+"management frames, which improves stability in busy networks."
+msgstr ""
+"கேண்டெலா டெக்னாலசிசிலிருந்து மாற்று ஓட்டுநர். இது மேலாண்மை பிரேம்களுக்கான HTT TX தரவு "
+"பாதையைப் பயன்படுத்துகிறது, இது பிசியான நெட்வொர்க்குகளில் நிலைத்தன்மையை மேம்படுத்துகிறது."
+
+#: labels.json
+msgid "Advanced users"
+msgstr "மேம்பட்ட பயனர்கள்"
+
+#: labels.json
+msgid "This functionality is usable only for advanced users."
+msgstr "இந்த செயல்பாடு மேம்பட்ட பயனர்களுக்கு மட்டுமே பயன்படுத்தக்கூடியது."
+
+#: labels.json
+msgid "Community"
+msgstr "சமூகம்"
+
+#: labels.json
+msgid ""
+"This package list is not officially supported. Turris team has no "
+"responsibility for stability of software that is part of this list."
+msgstr ""
+"இந்த தொகுப்பு பட்டியல் அதிகாரப்பூர்வமாக ஆதரிக்கப்படவில்லை. இந்த பட்டியலின் ஒரு பகுதியாக "
+"இருக்கும் மென்பொருளின் ச்திரத்தன்மைக்கு டர்ரிச் குழுவுக்கு எந்தப் பொறுப்பும் இல்லை."
+
+#: labels.json
+msgid "Experimental"
+msgstr "சோதனை"
+
+#: labels.json
+msgid ""
+"Software that is part of this package list is considered experimental. "
+"Problems when using it might be expected."
+msgstr ""
+"இந்த தொகுப்பு பட்டியலின் ஒரு பகுதியாக இருக்கும் மென்பொருள் சோதனை என்று கருதப்படுகிறது. "
+"அதைப் பயன்படுத்தும் போது சிக்கல்கள் எதிர்பார்க்கப்படலாம்."
+
+#: labels.json
+msgid "Deprecated"
+msgstr "மதிப்பிடப்பட்டது"
+
+#: labels.json
+msgid ""
+"This package list and/or software that provides is planned to be removed. It"
+" is advised to not use it."
+msgstr ""
+"இந்த தொகுப்பு பட்டியல் மற்றும்/அல்லது வழங்கும் மென்பொருள் அகற்ற திட்டமிடப்பட்டுள்ளது. அதைப் "
+"பயன்படுத்த வேண்டாம் என்று அறிவுறுத்தப்படுகிறது."
+
+#: labels.json
+msgid "External storage"
+msgstr "வெளிப்புற சேமிப்பு"
+
+#: labels.json
+msgid ""
+"Using external storage is highly suggested for this package list usage. "
+"Software it contains can wear out flash storages as it performs increased "
+"amount of writes."
+msgstr ""
+"இந்த தொகுப்பு பட்டியல் பயன்பாட்டிற்கு வெளிப்புற சேமிப்பிடத்தைப் பயன்படுத்துவது மிகவும் "
+"பரிந்துரைக்கப்படுகிறது. அதில் உள்ள மென்பொருளானது ஃபிளாச் ச்டோரேச்களை வெடிக்கச் செய்யலாம், "
+"ஏனெனில் இது அதிகரித்த அளவிலான எழுத்துக்களைச் செய்கிறது."
+
+#: labels.json
+msgid "High memory usage"
+msgstr "உயர் நினைவக பயன்பாடு"
+
+#: labels.json
+msgid ""
+"Software in this package list consumes possibly higher amount of RAM to run."
+" It is not suggested to use it with small memory."
+msgstr ""
+"இந்த தொகுப்பு பட்டியலில் உள்ள மென்பொருள் இயக்க அதிக அளவு ரேம் பயன்படுத்துகிறது. அதை "
+"சிறிய நினைவகத்துடன் பயன்படுத்த பரிந்துரைக்கப்படவில்லை."
+
+#: labels.json
+msgid "High storage usage"
+msgstr "உயர் சேமிப்பு பயன்பாடு"
+
+#: labels.json
+msgid ""
+"Software in this package list consumes possibly higher amount of storage "
+"space to install. It is not suggested to use it with small storages such as "
+"internal storage of Turris 1.x and microSD cards with less than 1GB of "
+"storage."
+msgstr ""
+"இந்த தொகுப்பு பட்டியலில் உள்ள மென்பொருள் நிறுவ அதிக அளவு சேமிப்பக இடத்தைப் "
+"பயன்படுத்துகிறது. டர்ரிச் 1.x இன் உள் சேமிப்பு மற்றும் 1 சிபிக்கு குறைவான சேமிப்பிடத்துடன் "
+"மைக்ரோ எச்.டி கார்டுகள் போன்ற சிறிய சேமிப்பகங்களுடன் இதைப் பயன்படுத்த பரிந்துரைக்கப்படவில்லை."
+
+#: labels.json
+msgid "Network load"
+msgstr "பிணைய சுமை"
+
+#: labels.json
+msgid ""
+"This functionality can decrease network performance. That can be felt only "
+"on faster uplinks but because of that it still can be decremental to some "
+"users."
+msgstr ""
+"இந்த செயல்பாடு பிணைய செயல்திறனைக் குறைக்கும். அதை வேகமான அப்லிங்க்களில் மட்டுமே உணர "
+"முடியும், ஆனால் அதன் காரணமாக இது சில பயனர்களுக்கு குறைக்கப்படலாம்."

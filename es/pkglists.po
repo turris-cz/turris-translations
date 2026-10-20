@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: pkglists\n"
 "Report-Msgid-Bugs-To: packaging@turris.cz\n"
 "POT-Creation-Date: 2022-05-16 10:29\n"
-"PO-Revision-Date: 2022-09-11 16:18+0000\n"
+"PO-Revision-Date: 2026-09-04 14:01+0000\n"
 "Last-Translator: Dan Cybersec <dan.cybersec@protonmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/turris/pkglists/"
 "es/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1-dev\n"
+"X-Generator: Weblate 2026.9\n"
 
 #: definitions.json
 msgid "Extensions of network protocols for 3G/LTE"
@@ -344,7 +344,7 @@ msgid "Netdata"
 msgstr ""
 
 #: definitions.json
-msgid "Real-time perfomance and health monitoring options."
+msgid "Real-time performance and health monitoring options."
 msgstr ""
 
 #: definitions.json
