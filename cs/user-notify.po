@@ -79,3 +79,35 @@ msgstr ""
 #: foris/config/__init__.py:246
 msgid "This is a testing notification. Please ignore me."
 msgstr "Toto je testovací notifikace. Ignorujte ji."
+
+#: dev_detect/notify.py
+msgid "New device on network"
+msgstr "Nové zařízení v síti"
+
+#: dev_detect/notify.py
+msgid "Device back on network"
+msgstr "Zařízení se vrátilo do sítě"
+
+#: dev_detect/notify.py
+msgid "Days away"
+msgstr "Dní nepřítomnosti"
+
+#: dev_detect/notify.py
+msgid "MAC address"
+msgstr "MAC adresa"
+
+#: dev_detect/notify.py
+msgid "randomized address, vendor unknown"
+msgstr "náhodná adresa, výrobce neznámý"
+
+#: dev_detect/notify.py
+msgid ""
+"The device database was empty at start, so devices already present were "
+"stored without separate notifications:"
+msgstr ""
+"Databáze zařízení byla při startu prázdná, proto byla již přítomná zařízení "
+"uložena bez samostatných oznámení:"
+
+#: dev_detect/notify.py
+msgid "More devices"
+msgstr "Další zařízení"
