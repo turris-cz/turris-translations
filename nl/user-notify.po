@@ -81,3 +81,33 @@ msgstr ""
 #: foris/config/__init__.py:246
 msgid "This is a testing notification. Please ignore me."
 msgstr "Dit is een testmelding en kan worden genegeerd."
+
+#: dev_detect/notify.py
+msgid "New device on network"
+msgstr ""
+
+#: dev_detect/notify.py
+msgid "Device back on network"
+msgstr ""
+
+#: dev_detect/notify.py
+msgid "Days away"
+msgstr ""
+
+#: dev_detect/notify.py
+msgid "MAC address"
+msgstr ""
+
+#: dev_detect/notify.py
+msgid "randomized address, vendor unknown"
+msgstr ""
+
+#: dev_detect/notify.py
+msgid ""
+"The device database was empty at start, so devices already present were "
+"stored without separate notifications:"
+msgstr ""
+
+#: dev_detect/notify.py
+msgid "More devices"
+msgstr ""
